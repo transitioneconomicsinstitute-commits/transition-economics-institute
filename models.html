@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Models · Transition Economics Institute</title>
   <meta name="description" content="Open power and gas modelling cases under development at Transition Economics Institute. Method, limits, and what is not yet published.">
-  <link rel="stylesheet" href="css/styles.css?v=20260930b">
+  <link rel="stylesheet" href="css/styles.css?v=20260930c">
   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 </head>
@@ -35,38 +35,63 @@
     <section class="section" aria-labelledby="page-title">
       <p class="label-caps">Models</p>
       <hr class="rule" aria-hidden="true">
-      <h1 id="page-title">Open cases in progress</h1>
-      <p class="lede">The institute is building its own open production-cost style power cases and a cited gas price and balance view so that published research can rest on numbers the institute can rebuild, audit, and revise when the evidence changes.</p>
-      <p>Commercial datasets and black-box forecasts are useful for orientation. They are a poor foundation for work that asks whether tariffs recover cost, whether capacity payments match the load that arrives, or whether an LNG destination swings because of price, security, or both. The modelling programme exists so those questions can be answered from public inputs, with every non-blank cell carrying a citation, and with blank cells left blank when an open source is not yet in hand.</p>
-      <p>Nothing on this page is a published price forecast. The cases describe method and limits. Where a solve has returned optimal, that result is an energy-balance check under stated assumptions, not a locational market price.</p>
+      <h1 id="page-title">Market modelling programme</h1>
+      <p class="lede">The Institute is developing open, reproducible models of North American power markets and global gas markets to support its research on prices, adequacy, and investment.</p>
+      <h2 id="overview-heading">Overview</h2>
+      <p>The programme has two components. The first is a set of zonal production-cost style power market cases, beginning with PJM and NYISO. The second is a gas market view that combines benchmark price histories with supply and demand balances. Both are built entirely on published public data, so that every input can be traced to its source and every result can be reproduced independently.</p>
+      <p>The models are at the development stage. Their current outputs are used to validate data and model structure. The Institute has not yet published price forecasts from the programme; these will follow once the inputs described below are finalised.</p>
     </section>
 
     <section class="section section--tight-top" aria-labelledby="power-heading">
       <p class="label-caps">Power</p>
       <hr class="rule" aria-hidden="true">
-      <h2 id="power-heading">Zonal production-cost cases</h2>
-      <p>The power programme is organised as open production-cost style cases for North American wholesale footprints. PJM and NYISO are the first markets taken through a full copper-plate dispatch. The generator fleets for those markets are drawn from the EIA-860 2024 release, filtered to the relevant balancing authority and using operable nameplate capacity as the cited installed capacity. For PJM that yields on the order of 3,800 units and roughly 224 GW of nameplate; for NYISO roughly 1,900 units and about 46 GW. Zone assignment and marginal cost fields on those fleets are still blank. Plants have not been mapped to PJM transmission zones or to NYISO load zones A through K from a cited crosswalk, and the weights used in the first solves are not fuel costs.</p>
-      <p>Load samples for the first checks are recent public hourly series: EIA-930 subregion hours for PJM and NYISO market information system integrated load for zones A through K. The copper-plate runs treat the balancing authority as a single bus. Zonal loads are summed, carriers are aggregated by technology with the sum of cited nameplate, and a linear programme (PyPSA with the HiGHS solver) balances generation against that aggregate load across 168 hourly snapshots. Equal dummy weights are applied on every carrier solely so the solver has an objective. That is not a fuel-price stack. Locational marginal prices and duals are neither computed nor written.</p>
-      <p>Under those assumptions the PJM and NYISO copper-plate solves have returned optimal, with peak demand in the sample week on the order of 102 GW in PJM and 18 GW in NYISO and with imbalance at machine precision. Similar copper-plate energy-balance checks have also returned optimal where comparable EIA-860 fleets and EIA-930 load samples are already in place for ERCOT and SPP, and in the MISO and ISO-NE folders where load samples and BA fleets have been attached. CAISO and the wider Western interconnect remain at zone stubs without a priced or energy-balance solve. Canadian footprints (AESO, IESO, and the hydro provinces) sit as structured stubs pending the same open-input discipline.</p>
-      <p>A priced zonal case is not yet available. The blocking gaps are deliberate rather than temporary inventiveness. Plants must be mapped to zones from a cited source. Marginal costs must come from published fuel prices and heat rates, or from another documented open cost series. Interface limits between zones must be introduced before transmission constraints mean anything. The fleet year (EIA-860 2024) and the load sample year (September 2026 hours in the current extracts) still need to be aligned for a study year the institute will stand behind. For PJM, the OVEC load series remains absent from the EIA-930 subregion extract used so far. Until those pieces are cited and attached, the institute will not publish locational prices from these cases.</p>
+      <h2 id="power-heading">Power market modelling</h2>
+      <h3>Scope</h3>
+      <p>The power cases represent wholesale markets at the zonal level: PJM transmission zones and NYISO load zones A to K in the first instance. The same framework has been extended to ERCOT, SPP, MISO and ISO-NE, and zone definitions have been prepared for CAISO, the wider Western Interconnection, and the Canadian provincial systems.</p>
+      <h3>Fleet data</h3>
+      <p>Generator fleets are drawn from the U.S. Energy Information Administration Form EIA-860 for 2024, filtered by balancing authority, with operable nameplate capacity as the measure of installed capacity. The PJM fleet comprises roughly 3,800 generating units with about 224 GW of nameplate capacity. The NYISO fleet comprises roughly 1,900 units with about 46 GW.</p>
+      <h3>Dispatch framework</h3>
+      <p>Dispatch is solved as a linear optimisation using the open-source PyPSA framework and the HiGHS solver, at hourly resolution. Hourly load is taken from public operator and EIA-930 data: EIA-930 subregion load for PJM, and NYISO integrated zonal load for New York.</p>
+      <h3>Current development stage</h3>
+      <p>The PJM and NYISO cases have been solved to optimality in single-zone (copper-plate) configuration over a one-week, 168-hour sample, balancing generation and load in every hour. Peak demand in the sample week was about 102 GW in PJM and about 18 GW in NYISO. Equivalent single-zone runs have also solved for ERCOT, SPP, MISO and ISO-NE. At this stage the runs test fleet and load data and the structure of the model. They use uniform unit costs rather than fuel-based costs, and they do not produce locational prices.</p>
+      <h3>Next build steps</h3>
+      <p>The move from single-zone to priced zonal cases requires four further inputs. Generating units will be assigned to zones using a documented plant-to-zone mapping. Marginal costs will be derived from published fuel prices and unit heat rates. Transfer limits between zones will be introduced so that transmission constraints bind. The fleet year and the load year will be aligned on a common study year, and the PJM load data will be completed with the OVEC zone, which is not reported separately in the EIA-930 subregion series. Locational price outputs will be released once zonal mapping and fuel cost inputs are finalised.</p>
     </section>
 
     <section class="section section--tight-top" aria-labelledby="gas-heading">
       <p class="label-caps">Gas</p>
       <hr class="rule" aria-hidden="true">
-      <h2 id="gas-heading">Benchmark prices and balance history</h2>
-      <p>The gas programme assembles open benchmark prices and regional balance history. It does not invent hub series that are not free to redistribute under their own names, and it does not fill regional volumes from proxies.</p>
-      <p>United States Henry Hub daily spots from the EIA are in through 22 September 2026. World Bank Pink Sheet monthly series supply the first non-United States price history: Europe natural gas from January 1960 through August 2026, and Japan LNG from January 1977 through August 2026, drawn from the Pink Sheet workbook updated in early September 2026. Those Europe and Japan series are the World Bank commodity markers. They are not TTF and not JKM. Named TTF and JKM spot columns remain intentionally empty. They will stay empty until an open free series under those names is obtained. Eurostat and other non-United States annual balance volumes are likewise blank on purpose; earlier stubs are not estimates.</p>
-      <p>Alongside the price extracts, North American supply tables, United States citygate monthly averages, Canadian production from the Canada Energy Regulator, and a North America global-balance roll-up for United States production, consumption, and LNG exports are in the processed set. Hub basis series for Waha, AECO, Dawn, Dom South, and Chicago are not filled. Net imports and LNG import splits for North America that would require an undocumented pipe versus LNG allocation are left blank. Mexico supply volumes and Canada consumption and trade remain open. No forecast price or volume appears without a model run or a citation.</p>
+      <h2 id="gas-heading">Gas market modelling</h2>
+      <h3>Price benchmarks</h3>
+      <p>The price dataset holds Henry Hub daily spot prices from the EIA through 22 September 2026. International coverage currently comes from the World Bank Commodity Price Data (Pink Sheet): the monthly Europe natural gas index from 1960 and the Japan LNG price from 1977, both through August 2026. These World Bank series are distinct from the TTF and JKM hub assessments. TTF and JKM daily prices are not yet in the dataset.</p>
+      <h3>Supply and demand balances</h3>
+      <p>The balance covers North America. It includes United States production, consumption and LNG exports from EIA data, Canadian production from the Canada Energy Regulator, and monthly United States citygate prices. The roll-up of these series into the global balance table has been reconciled exactly against the underlying EIA figures.</p>
+      <h3>Development stage</h3>
+      <p>Balances for Europe and other regions, drawing on Eurostat and JODI, are the next addition. Regional hub basis for North America (Waha, AECO, Dawn, Dominion South and Chicago), a split of North American imports into pipeline and LNG, Mexican supply, and Canadian consumption and trade are further items in the build sequence.</p>
     </section>
 
-    <section class="section section--tight-top" aria-labelledby="next-heading">
-      <p class="label-caps">Sequence</p>
+    <section class="section section--tight-top" aria-labelledby="integrated-heading">
+      <p class="label-caps">Outputs</p>
       <hr class="rule" aria-hidden="true">
-      <h2 id="next-heading">What is not in the cases yet</h2>
-      <p>The next work is ordered so that each layer rests on cited inputs rather than on a completed narrative. Zonal power prices come only after plant-to-zone mapping and fuel costs exist for the lead markets. Capacity, renewable credit, and revenue views are intended to be built from those modelled prices once they exist; the capacity folders are scaffolded and do not yet hold published outputs. Transmission detail will enter from public power-flow cases, not from invented interface ratings.</p>
-      <p>On the gas side, the open queue is annual volumes for Europe and other regions from Eurostat and JODI when those extracts land, and named TTF and JKM spots only when a free open series under those labels appears. Basis and non-North America balances stay blank until the same standard is met.</p>
-      <p>Readers should treat this page as a statement of method and of known limits. No price forecast from this programme is published yet. When a priced case clears under documented assumptions, the institute will say so in the research archive with the same sourcing standard used elsewhere on the site.</p>
+      <h2 id="integrated-heading">Integrated outputs in development</h2>
+      <p>The power and gas components are designed to feed a sequence of integrated outputs, each built on the one before it.</p>
+      <ul>
+        <li><strong>Zonal prices.</strong> Hourly zonal energy prices, produced once plant-to-zone mapping, fuel costs and interzonal limits are in place.</li>
+        <li><strong>Capacity.</strong> Capacity market and resource adequacy analysis derived from the modelled energy prices.</li>
+        <li><strong>Renewable credits.</strong> Renewable energy credit analysis built on the same modelled price and dispatch results.</li>
+        <li><strong>Revenue.</strong> Asset-level revenue views that combine energy, capacity and credit outcomes.</li>
+        <li><strong>Transmission.</strong> Network detail introduced from public power-flow cases.</li>
+      </ul>
+      <p>Each output will be published once its underlying inputs have been completed and documented.</p>
+    </section>
+
+    <section class="section section--tight-top" aria-labelledby="approach-heading">
+      <p class="label-caps">Approach</p>
+      <hr class="rule" aria-hidden="true">
+      <h2 id="approach-heading">Approach and standards</h2>
+      <p><strong>Open data.</strong> Every input is drawn from publicly available sources, including EIA, the independent system operators, the World Bank and the Canada Energy Regulator. Series that are not openly available are not used.</p>
+      <p><strong>Reproducibility.</strong> The models are built on open-source tools, and each dataset can be rebuilt from its original download.</p>
+      <p><strong>Documented assumptions.</strong> Every numerical input is recorded with its source. Where an open source for an input is not yet available, the gap is recorded and scheduled in the build sequence rather than filled by estimate.</p>
       <p class="text-link-row"><a href="research.html">Research archive</a> · <a href="about.html">About the institute</a> · <a href="contact.html">Contact</a></p>
     </section>
   </main>

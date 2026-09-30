@@ -573,7 +573,7 @@ a:focus-visible {
   line-height: 1.55;
 }
 
-/* Schematics */
+/* Diagrams */
 
 .schematic {
   margin: var(--space-6) 0 0;
@@ -899,7 +899,7 @@ a:focus-visible {
 }
 
 /* Article column
-   Calmer reading measure per design/article-typography.md */
+   Calmer reading measure */
 
 .article.section {
   max-width: 47.5rem; /* 760px: design 720-760 */

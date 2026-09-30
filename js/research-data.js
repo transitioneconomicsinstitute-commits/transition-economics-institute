@@ -1,4 +1,4 @@
-// Research index. Article bylines and dates; author filter is a flat name list.
+// Research index.
 window.TEI_RESEARCH = [
   {
     "id": "2026-09-29-ercot-batch-zero-conditional-classifications",
