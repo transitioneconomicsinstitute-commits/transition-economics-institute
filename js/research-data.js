@@ -1,6 +1,18 @@
 // Research index.
 window.TEI_RESEARCH = [
   {
+    "id": "2026-09-30-pjm-order-1920-cost-allocation-impasse",
+    "title": "PJM's Order 1920 Cost Allocation Impasse: Two Proposals, One Tariff and a Pending Fourth Circuit Ruling",
+    "date": "2026-09-30",
+    "dateDisplay": "30 September 2026",
+    "year": "2026",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html"
+  },
+  {
     "id": "2026-09-29-ercot-batch-zero-conditional-classifications",
     "title": "ERCOT Batch Zero Conditional Classifications: 66.4 GW Base, 127.9 GW Studied, December Verification Ahead",
     "date": "2026-09-29",
