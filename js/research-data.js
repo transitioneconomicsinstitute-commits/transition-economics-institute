@@ -1165,6 +1165,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html"
   },
   {
+    "id": "2024-06-24-india-offshore-wind-vgf-first-gigawatt",
+    "title": "India's Offshore Wind Subsidy Buys One Gigawatt and a Price Signal, Not Yet a Market",
+    "date": "2024-06-24",
+    "dateDisplay": "24 June 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html"
+  },
+  {
     "id": "2024-06-10-india-250-gw-peak-thermal-backbone",
     "title": "India's 250 GW Peak: The Evening Hour Is Now the Binding Constraint",
     "date": "2024-06-10",
