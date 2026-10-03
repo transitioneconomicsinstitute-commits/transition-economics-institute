@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/sitemap.xml
