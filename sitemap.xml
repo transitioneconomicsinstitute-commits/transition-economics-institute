@@ -1,776 +1,780 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/</loc>
+    <loc>https://tei-energy.org/</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/consulting.html</loc>
+    <loc>https://tei-energy.org/consulting.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/research.html</loc>
+    <loc>https://tei-energy.org/research.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/news.html</loc>
+    <loc>https://tei-energy.org/map.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/models.html</loc>
+    <loc>https://tei-energy.org/news.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/about.html</loc>
+    <loc>https://tei-energy.org/models.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/collaborate.html</loc>
+    <loc>https://tei-energy.org/about.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/contact.html</loc>
+    <loc>https://tei-energy.org/collaborate.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-03-crude-returns-products-lag-diesel-market.html</loc>
+    <loc>https://tei-energy.org/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tei-energy.org/articles/2026-10-03-crude-returns-products-lag-diesel-market.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-03-furnace-oil-rlng-winter-hedge.html</loc>
+    <loc>https://tei-energy.org/articles/2026-10-03-furnace-oil-rlng-winter-hedge.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html</loc>
+    <loc>https://tei-energy.org/articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-02-imf-review-bisp-power-subsidy-cash-transfer.html</loc>
+    <loc>https://tei-energy.org/articles/2026-10-02-imf-review-bisp-power-subsidy-cash-transfer.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html</loc>
+    <loc>https://tei-energy.org/articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html</loc>
+    <loc>https://tei-energy.org/articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html</loc>
     <lastmod>2026-10-01</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-30-pjm-backstop-procurement-pause.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-30-pjm-backstop-procurement-pause.html</loc>
     <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html</loc>
     <lastmod>2026-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-29-ercot-batch-zero-conditional-classifications.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-29-ercot-batch-zero-conditional-classifications.html</loc>
     <lastmod>2026-09-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-29-ercot-soft-lmps-large-load-premium.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-29-ercot-soft-lmps-large-load-premium.html</loc>
     <lastmod>2026-09-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-28-hormuz-partial-reopening-and-export-rebound.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-28-hormuz-partial-reopening-and-export-rebound.html</loc>
     <lastmod>2026-09-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-28-palisades-restart-delay-nuclear-restarts.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-28-palisades-restart-delay-nuclear-restarts.html</loc>
     <lastmod>2026-09-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-25-ke-ngc-interconnection-planning.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-25-ke-ngc-interconnection-planning.html</loc>
     <lastmod>2026-09-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-21-revolution-wind-completion-offshore-wind-policy-risk.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-21-revolution-wind-completion-offshore-wind-policy-risk.html</loc>
     <lastmod>2026-09-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-18-disco-stake-sale-management-control.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-18-disco-stake-sale-management-control.html</loc>
     <lastmod>2026-09-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-14-germany-first-capacity-auction-oversubscribed.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-14-germany-first-capacity-auction-oversubscribed.html</loc>
     <lastmod>2026-09-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-14-oil-geopolitics-middle-east-tensions.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-14-oil-geopolitics-middle-east-tensions.html</loc>
     <lastmod>2026-09-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-14-steo-record-electricity-sales-data-centres.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-14-steo-record-electricity-sales-data-centres.html</loc>
     <lastmod>2026-09-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-12-brent-steo-middle-east-disruption-prices.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-12-brent-steo-middle-east-disruption-prices.html</loc>
     <lastmod>2026-09-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-12-hybrids-bess-wheeling-mandate.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-12-hybrids-bess-wheeling-mandate.html</loc>
     <lastmod>2026-09-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-10-igcep-2027-data-collection.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-10-igcep-2027-data-collection.html</loc>
     <lastmod>2026-09-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-08-china-oil-demand-falls-hormuz-electrification.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-08-china-oil-demand-falls-hormuz-electrification.html</loc>
     <lastmod>2026-09-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-07-european-power-prices-renewables.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-07-european-power-prices-renewables.html</loc>
     <lastmod>2026-09-07</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-09-06-cleared-pending-solar-applications.html</loc>
+    <loc>https://tei-energy.org/articles/2026-09-06-cleared-pending-solar-applications.html</loc>
     <lastmod>2026-09-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-26-pending-rooftop-solar-cases.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-26-pending-rooftop-solar-cases.html</loc>
     <lastmod>2026-08-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-24-china-ev-battery-minerals-demand.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-24-china-ev-battery-minerals-demand.html</loc>
     <lastmod>2026-08-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-18-power-markets-and-oil-gas-price-shock.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-18-power-markets-and-oil-gas-price-shock.html</loc>
     <lastmod>2026-08-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-17-ercot-large-load-pause-verification.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-17-ercot-large-load-pause-verification.html</loc>
     <lastmod>2026-08-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-17-india-270-gw-peak-state-grids.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-17-india-270-gw-peak-state-grids.html</loc>
     <lastmod>2026-08-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-17-us-gas-exports-growth-path-to-2027.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-17-us-gas-exports-growth-path-to-2027.html</loc>
     <lastmod>2026-08-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-08-10-igu-world-lng-report-2026-record.html</loc>
+    <loc>https://tei-energy.org/articles/2026-08-10-igu-world-lng-report-2026-record.html</loc>
     <lastmod>2026-08-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-07-28-disco-spv-fesco-gepco-iesco.html</loc>
+    <loc>https://tei-energy.org/articles/2026-07-28-disco-spv-fesco-gepco-iesco.html</loc>
     <lastmod>2026-07-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-07-20-eu-gas-storage-refill-under-hormuz-stress.html</loc>
+    <loc>https://tei-energy.org/articles/2026-07-20-eu-gas-storage-refill-under-hormuz-stress.html</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-07-13-india-gas-rationing-hormuz-lessons.html</loc>
+    <loc>https://tei-energy.org/articles/2026-07-13-india-gas-rationing-hormuz-lessons.html</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-07-13-national-transmission-needs-study-draft.html</loc>
+    <loc>https://tei-energy.org/articles/2026-07-13-national-transmission-needs-study-draft.html</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-07-13-shipping-cape-route-cumulative-costs.html</loc>
+    <loc>https://tei-energy.org/articles/2026-07-13-shipping-cape-route-cumulative-costs.html</loc>
     <lastmod>2026-07-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-06-16-qatar-lng-hormuz-and-ras-laffan.html</loc>
+    <loc>https://tei-energy.org/articles/2026-06-16-qatar-lng-hormuz-and-ras-laffan.html</loc>
     <lastmod>2026-06-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-06-15-coal-phase-down-asia-trade.html</loc>
+    <loc>https://tei-energy.org/articles/2026-06-15-coal-phase-down-asia-trade.html</loc>
     <lastmod>2026-06-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-05-18-middle-east-lng-qatar-gulf-exports.html</loc>
+    <loc>https://tei-energy.org/articles/2026-05-18-middle-east-lng-qatar-gulf-exports.html</loc>
     <lastmod>2026-05-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-05-12-opec-spare-capacity-under-gulf-disruption.html</loc>
+    <loc>https://tei-energy.org/articles/2026-05-12-opec-spare-capacity-under-gulf-disruption.html</loc>
     <lastmod>2026-05-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html</loc>
+    <loc>https://tei-energy.org/articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html</loc>
     <lastmod>2026-04-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html</loc>
+    <loc>https://tei-energy.org/articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html</loc>
     <lastmod>2026-04-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-23-japan-korea-hormuz-oil-reserves.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-23-japan-korea-hormuz-oil-reserves.html</loc>
     <lastmod>2026-03-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-23-spr-release-gasoline-prices-hormuz.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-23-spr-release-gasoline-prices-hormuz.html</loc>
     <lastmod>2026-03-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html</loc>
     <lastmod>2026-03-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-18-iea-collective-stock-release-400m-barrels.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-18-iea-collective-stock-release-400m-barrels.html</loc>
     <lastmod>2026-03-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-16-hormuz-austerity-fuel-demand.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-16-hormuz-austerity-fuel-demand.html</loc>
     <lastmod>2026-03-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-10-hormuz-crude-transit-documented-flows.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-10-hormuz-crude-transit-documented-flows.html</loc>
     <lastmod>2026-03-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-03-10-hormuz-oil-transit-collapse-iea.html</loc>
+    <loc>https://tei-energy.org/articles/2026-03-10-hormuz-oil-transit-collapse-iea.html</loc>
     <lastmod>2026-03-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html</loc>
+    <loc>https://tei-energy.org/articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html</loc>
     <lastmod>2026-02-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-02-16-eu-russian-gas-ban-regulation.html</loc>
+    <loc>https://tei-energy.org/articles/2026-02-16-eu-russian-gas-ban-regulation.html</loc>
     <lastmod>2026-02-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-02-09-mozambique-lng-full-restart.html</loc>
+    <loc>https://tei-energy.org/articles/2026-02-09-mozambique-lng-full-restart.html</loc>
     <lastmod>2026-02-09</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-01-26-india-discoms-first-profit.html</loc>
+    <loc>https://tei-energy.org/articles/2026-01-26-india-discoms-first-profit.html</loc>
     <lastmod>2026-01-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-01-19-india-record-2025-solar-additions.html</loc>
+    <loc>https://tei-energy.org/articles/2026-01-19-india-record-2025-solar-additions.html</loc>
     <lastmod>2026-01-19</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2026-01-12-cbam-definitive-phase-begins.html</loc>
+    <loc>https://tei-energy.org/articles/2026-01-12-cbam-definitive-phase-begins.html</loc>
     <lastmod>2026-01-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-12-29-india-shanti-act-nuclear-opening.html</loc>
+    <loc>https://tei-energy.org/articles/2025-12-29-india-shanti-act-nuclear-opening.html</loc>
     <lastmod>2025-12-29</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-12-15-coal-retirement-delays-and-emergency-orders.html</loc>
+    <loc>https://tei-energy.org/articles/2025-12-15-coal-retirement-delays-and-emergency-orders.html</loc>
     <lastmod>2025-12-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-12-15-lng-contracting-europe-demand-uncertainty.html</loc>
+    <loc>https://tei-energy.org/articles/2025-12-15-lng-contracting-europe-demand-uncertainty.html</loc>
     <lastmod>2025-12-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-12-10-circular-debt-stock-vs-flow.html</loc>
+    <loc>https://tei-energy.org/articles/2025-12-10-circular-debt-stock-vs-flow.html</loc>
     <lastmod>2025-12-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap.html</loc>
+    <loc>https://tei-energy.org/articles/2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap.html</loc>
     <lastmod>2025-12-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-11-17-china-lng-coal-power-dual.html</loc>
+    <loc>https://tei-energy.org/articles/2025-11-17-china-lng-coal-power-dual.html</loc>
     <lastmod>2025-11-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-11-17-eu-2040-target-90-percent-flexibilities.html</loc>
+    <loc>https://tei-energy.org/articles/2025-11-17-eu-2040-target-90-percent-flexibilities.html</loc>
     <lastmod>2025-11-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-11-17-federal-energy-dominance-and-gas-markets.html</loc>
+    <loc>https://tei-energy.org/articles/2025-11-17-federal-energy-dominance-and-gas-markets.html</loc>
     <lastmod>2025-11-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-11-17-iea-weo-2025-energy-security-scenarios.html</loc>
+    <loc>https://tei-energy.org/articles/2025-11-17-iea-weo-2025-energy-security-scenarios.html</loc>
     <lastmod>2025-11-17</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-11-04-eni-lng-cargo-cancellations.html</loc>
+    <loc>https://tei-energy.org/articles/2025-11-04-eni-lng-cargo-cancellations.html</loc>
     <lastmod>2025-11-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-27-brazil-foz-do-amazonas-drilling-licence.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-27-brazil-foz-do-amazonas-drilling-licence.html</loc>
     <lastmod>2025-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-27-drc-cobalt-quotas-replace-ban.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-27-drc-cobalt-quotas-replace-ban.html</loc>
     <lastmod>2025-10-27</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-20-india-carbon-market-first-intensity-targets.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-20-india-carbon-market-first-intensity-targets.html</loc>
     <lastmod>2025-10-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-14-ders-disco-igcep-inputs.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-14-ders-disco-igcep-inputs.html</loc>
     <lastmod>2025-10-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-13-colocated-large-loads-and-tariff-design.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-13-colocated-large-loads-and-tariff-design.html</loc>
     <lastmod>2025-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-13-iberian-blackout-factual-report.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-13-iberian-blackout-factual-report.html</loc>
     <lastmod>2025-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-13-oil-market-non-opec-supply-surplus-risk.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-13-oil-market-non-opec-supply-surplus-risk.html</loc>
     <lastmod>2025-10-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html</loc>
     <lastmod>2025-10-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-10-06-trump-oil-reserves-claim-reality.html</loc>
+    <loc>https://tei-energy.org/articles/2025-10-06-trump-oil-reserves-claim-reality.html</loc>
     <lastmod>2025-10-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-22-australia-2035-target.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-22-australia-2035-target.html</loc>
     <lastmod>2025-09-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-15-european-electricity-flexibility-gap.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-15-european-electricity-flexibility-gap.html</loc>
     <lastmod>2025-09-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-15-fy25-generation-mix.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-15-fy25-generation-mix.html</loc>
     <lastmod>2025-09-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-15-gerd-inauguration-power-and-the-nile.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-15-gerd-inauguration-power-and-the-nile.html</loc>
     <lastmod>2025-09-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-15-renewables-share-electricity-generation.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-15-renewables-share-electricity-generation.html</loc>
     <lastmod>2025-09-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-08-nev-policy-levy-electric-two-wheelers.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-08-nev-policy-levy-electric-two-wheelers.html</loc>
     <lastmod>2025-09-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-09-01-africa-solar-imports-surge.html</loc>
+    <loc>https://tei-energy.org/articles/2025-09-01-africa-solar-imports-surge.html</loc>
     <lastmod>2025-09-01</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-08-20-igcep-2025-35-revision.html</loc>
+    <loc>https://tei-energy.org/articles/2025-08-20-igcep-2025-35-revision.html</loc>
     <lastmod>2025-08-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-08-18-middle-east-spare-capacity-oil.html</loc>
+    <loc>https://tei-energy.org/articles/2025-08-18-middle-east-spare-capacity-oil.html</loc>
     <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-08-18-transmission-investment-gap-load-growth.html</loc>
+    <loc>https://tei-energy.org/articles/2025-08-18-transmission-investment-gap-load-growth.html</loc>
     <lastmod>2025-08-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-28-china-yarlung-tsangpo-hydropower-cascade.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-28-china-yarlung-tsangpo-hydropower-cascade.html</loc>
     <lastmod>2025-07-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html</loc>
     <lastmod>2025-07-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-21-obbba-wind-solar-credit-cliff.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-21-obbba-wind-solar-credit-cliff.html</loc>
     <lastmod>2025-07-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-21-pm-blocks-net-metering-review.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-21-pm-blocks-net-metering-review.html</loc>
     <lastmod>2025-07-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html</loc>
     <lastmod>2025-07-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-14-shipping-chokepoints-energy-security.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-14-shipping-chokepoints-energy-security.html</loc>
     <lastmod>2025-07-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-14-uk-rejects-zonal-pricing-rema.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-14-uk-rejects-zonal-pricing-rema.html</loc>
     <lastmod>2025-07-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-07-07-climate-support-levy-fuel.html</loc>
+    <loc>https://tei-energy.org/articles/2025-07-07-climate-support-levy-fuel.html</loc>
     <lastmod>2025-07-07</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-06-30-china-may-solar-rush-93gw.html</loc>
+    <loc>https://tei-energy.org/articles/2025-06-30-china-may-solar-rush-93gw.html</loc>
     <lastmod>2025-06-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-06-18-local-vs-imported-coal.html</loc>
+    <loc>https://tei-energy.org/articles/2025-06-18-local-vs-imported-coal.html</loc>
     <lastmod>2025-06-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-06-16-coal-trade-record-then-retreat.html</loc>
+    <loc>https://tei-energy.org/articles/2025-06-16-coal-trade-record-then-retreat.html</loc>
     <lastmod>2025-06-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-06-16-ercot-load-growth-and-reliability.html</loc>
+    <loc>https://tei-energy.org/articles/2025-06-16-ercot-load-growth-and-reliability.html</loc>
     <lastmod>2025-06-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-04-28-greater-tortue-first-lng-cargo.html</loc>
+    <loc>https://tei-energy.org/articles/2025-04-28-greater-tortue-first-lng-cargo.html</loc>
     <lastmod>2025-04-28</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-04-07-india-coal-one-billion-tonnes.html</loc>
+    <loc>https://tei-energy.org/articles/2025-04-07-india-coal-one-billion-tonnes.html</loc>
     <lastmod>2025-04-07</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-03-31-iea-global-energy-review-2025-electricity-demand.html</loc>
+    <loc>https://tei-energy.org/articles/2025-03-31-iea-global-energy-review-2025-electricity-demand.html</loc>
     <lastmod>2025-03-31</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-03-03-affordable-energy-action-plan.html</loc>
+    <loc>https://tei-energy.org/articles/2025-03-03-affordable-energy-action-plan.html</loc>
     <lastmod>2025-03-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-02-24-china-document-136-renewables-market-pricing.html</loc>
+    <loc>https://tei-energy.org/articles/2025-02-24-china-document-136-renewables-market-pricing.html</loc>
     <lastmod>2025-02-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-02-24-japan-seventh-strategic-energy-plan.html</loc>
+    <loc>https://tei-energy.org/articles/2025-02-24-japan-seventh-strategic-energy-plan.html</loc>
     <lastmod>2025-02-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-02-03-china-lng-2024-pipeline-squeeze.html</loc>
+    <loc>https://tei-energy.org/articles/2025-02-03-china-lng-2024-pipeline-squeeze.html</loc>
     <lastmod>2025-02-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-02-03-mission-300-dar-es-salaam-compacts.html</loc>
+    <loc>https://tei-energy.org/articles/2025-02-03-mission-300-dar-es-salaam-compacts.html</loc>
     <lastmod>2025-02-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-01-13-45y-48e-final-rules-tech-neutral-credits.html</loc>
+    <loc>https://tei-energy.org/articles/2025-01-13-45y-48e-final-rules-tech-neutral-credits.html</loc>
     <lastmod>2025-01-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2025-01-13-south-africa-era-act-market-opens.html</loc>
+    <loc>https://tei-energy.org/articles/2025-01-13-south-africa-era-act-market-opens.html</loc>
     <lastmod>2025-01-13</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-12-23-dunkelflaute-price-spike-and-nordic-backlash.html</loc>
+    <loc>https://tei-energy.org/articles/2024-12-23-dunkelflaute-price-spike-and-nordic-backlash.html</loc>
     <lastmod>2024-12-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html</loc>
+    <loc>https://tei-energy.org/articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html</loc>
     <lastmod>2024-12-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-12-16-us-lng-exports-2024-year-end.html</loc>
+    <loc>https://tei-energy.org/articles/2024-12-16-us-lng-exports-2024-year-end.html</loc>
     <lastmod>2024-12-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-12-04-ipp-ppa-renegotiation.html</loc>
+    <loc>https://tei-energy.org/articles/2024-12-04-ipp-ppa-renegotiation.html</loc>
     <lastmod>2024-12-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-12-02-cop29-ncqg-climate-finance-energy-investment.html</loc>
+    <loc>https://tei-energy.org/articles/2024-12-02-cop29-ncqg-climate-finance-energy-investment.html</loc>
     <lastmod>2024-12-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-11-20-india-200-gw-renewables-500-gw-gap.html</loc>
+    <loc>https://tei-energy.org/articles/2024-11-20-india-200-gw-renewables-500-gw-gap.html</loc>
     <lastmod>2024-11-20</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-11-18-china-energy-law-what-changes.html</loc>
+    <loc>https://tei-energy.org/articles/2024-11-18-china-energy-law-what-changes.html</loc>
     <lastmod>2024-11-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-11-18-nuclear-licence-renewals-and-fleet-value.html</loc>
+    <loc>https://tei-energy.org/articles/2024-11-18-nuclear-licence-renewals-and-fleet-value.html</loc>
     <lastmod>2024-11-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-11-11-lng-trade-atlantic-pacific-rebalancing.html</loc>
+    <loc>https://tei-energy.org/articles/2024-11-11-lng-trade-atlantic-pacific-rebalancing.html</loc>
     <lastmod>2024-11-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang.html</loc>
+    <loc>https://tei-energy.org/articles/2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang.html</loc>
     <lastmod>2024-10-21</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-10-15-thar-mine-expansion-finance.html</loc>
+    <loc>https://tei-energy.org/articles/2024-10-15-thar-mine-expansion-finance.html</loc>
     <lastmod>2024-10-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-10-14-pjm-capacity-reliability-rising-load.html</loc>
+    <loc>https://tei-energy.org/articles/2024-10-14-pjm-capacity-reliability-rising-load.html</loc>
     <lastmod>2024-10-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-10-14-red-sea-oil-flows-eia-assessment.html</loc>
+    <loc>https://tei-energy.org/articles/2024-10-14-red-sea-oil-flows-eia-assessment.html</loc>
     <lastmod>2024-10-14</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-10-08-jhimpir-gharo-wind-curtailment.html</loc>
+    <loc>https://tei-energy.org/articles/2024-10-08-jhimpir-gharo-wind-curtailment.html</loc>
     <lastmod>2024-10-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-30-imf-eff-energy-conditionality.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-30-imf-eff-energy-conditionality.html</loc>
     <lastmod>2024-09-30</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-23-dangote-petrol-pricing-test.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-23-dangote-petrol-pricing-test.html</loc>
     <lastmod>2024-09-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-18-utility-scale-solar-after-qasp.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-18-utility-scale-solar-after-qasp.html</loc>
     <lastmod>2024-09-18</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-16-draghi-report-energy-prices.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-16-draghi-report-energy-prices.html</loc>
     <lastmod>2024-09-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-16-european-power-renewables-prices.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-16-european-power-renewables-prices.html</loc>
     <lastmod>2024-09-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-16-interconnection-queue-cluster-study-rollout.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-16-interconnection-queue-cluster-study-rollout.html</loc>
     <lastmod>2024-09-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-09-opec-plus-delays-unwind-two-months.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-09-opec-plus-delays-unwind-two-months.html</loc>
     <lastmod>2024-09-09</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-09-uk-ar6-offshore-wind-recovery.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-09-uk-ar6-offshore-wind-recovery.html</loc>
     <lastmod>2024-09-09</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-09-02-argentina-rigi-energy-investment.html</loc>
+    <loc>https://tei-energy.org/articles/2024-09-02-argentina-rigi-energy-investment.html</loc>
     <lastmod>2024-09-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-08-26-china-wind-solar-overtake-coal-capacity.html</loc>
+    <loc>https://tei-energy.org/articles/2024-08-26-china-wind-solar-overtake-coal-capacity.html</loc>
     <lastmod>2024-08-26</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-08-22-rooftop-solar-net-metering-boom.html</loc>
+    <loc>https://tei-energy.org/articles/2024-08-22-rooftop-solar-net-metering-boom.html</loc>
     <lastmod>2024-08-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-08-19-henry-hub-lng-feedgas-power-competition.html</loc>
+    <loc>https://tei-energy.org/articles/2024-08-19-henry-hub-lng-feedgas-power-competition.html</loc>
     <lastmod>2024-08-19</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-08-19-middle-east-supply-hormuz-security.html</loc>
+    <loc>https://tei-energy.org/articles/2024-08-19-middle-east-supply-hormuz-security.html</loc>
     <lastmod>2024-08-19</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-08-05-coal-to-gas-replacements-and-retirement-economics.html</loc>
+    <loc>https://tei-energy.org/articles/2024-08-05-coal-to-gas-replacements-and-retirement-economics.html</loc>
     <lastmod>2024-08-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-07-25-tariff-rebasing-imf-conditionality.html</loc>
+    <loc>https://tei-energy.org/articles/2024-07-25-tariff-rebasing-imf-conditionality.html</loc>
     <lastmod>2024-07-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-07-22-vietnam-dppa-decree-80.html</loc>
+    <loc>https://tei-energy.org/articles/2024-07-22-vietnam-dppa-decree-80.html</loc>
     <lastmod>2024-07-22</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-07-15-advance-act-nuclear-licensing-reform.html</loc>
+    <loc>https://tei-energy.org/articles/2024-07-15-advance-act-nuclear-licensing-reform.html</loc>
     <lastmod>2024-07-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-07-15-global-coal-trade-asia-pacific.html</loc>
+    <loc>https://tei-energy.org/articles/2024-07-15-global-coal-trade-asia-pacific.html</loc>
     <lastmod>2024-07-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-07-08-south-africa-100-days-without-load-shedding.html</loc>
+    <loc>https://tei-energy.org/articles/2024-07-08-south-africa-100-days-without-load-shedding.html</loc>
     <lastmod>2024-07-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-06-24-eu-electricity-market-design-reform.html</loc>
+    <loc>https://tei-energy.org/articles/2024-06-24-eu-electricity-market-design-reform.html</loc>
     <lastmod>2024-06-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html</loc>
+    <loc>https://tei-energy.org/articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html</loc>
     <lastmod>2024-06-24</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-06-10-india-250-gw-peak-thermal-backbone.html</loc>
+    <loc>https://tei-energy.org/articles/2024-06-10-india-250-gw-peak-thermal-backbone.html</loc>
     <lastmod>2024-06-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-05-31-china-march-emissions-fall-peak-test.html</loc>
+    <loc>https://tei-energy.org/articles/2024-05-31-china-march-emissions-fall-peak-test.html</loc>
     <lastmod>2024-05-31</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons.html</loc>
+    <loc>https://tei-energy.org/articles/2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons.html</loc>
     <lastmod>2024-05-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-04-15-nigeria-band-a-tariff-reset.html</loc>
+    <loc>https://tei-energy.org/articles/2024-04-15-nigeria-band-a-tariff-reset.html</loc>
     <lastmod>2024-04-15</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-03-11-india-pm-surya-ghar-rooftop-solar.html</loc>
+    <loc>https://tei-energy.org/articles/2024-03-11-india-pm-surya-ghar-rooftop-solar.html</loc>
     <lastmod>2024-03-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-03-11-iran-pakistan-pipeline-80km-gambit.html</loc>
+    <loc>https://tei-energy.org/articles/2024-03-11-iran-pakistan-pipeline-80km-gambit.html</loc>
     <lastmod>2024-03-11</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://transitioneconomicsinstitute-commits.github.io/transition-economics-institute/articles/2024-02-05-china-2023-solar-record-grid-question.html</loc>
+    <loc>https://tei-energy.org/articles/2024-02-05-china-2023-solar-record-grid-question.html</loc>
     <lastmod>2024-02-05</lastmod>
     <priority>0.6</priority>
   </url>

@@ -2,7 +2,7 @@
    Static markup in index.html is a snapshot; this keeps it current. */
 (function () {
   var DESKS = [
-    ["pakistan", "Pakistan"], ["united-states", "United States"], ["china", "China"],
+    ["united-states", "United States"], ["china", "China"],
     ["india", "India"], ["middle-east", "Middle East"], ["europe", "Europe"],
     ["africa", "Africa"], ["global", "Global"], ["other-markets", "Other markets"]
   ];
@@ -11,7 +11,7 @@
     return a.date < b.date ? 1 : a.date > b.date ? -1 : 0;
   });
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
-  function desk(item) { var d = item.desk || item.region; return LABEL[d] ? d : "other-markets"; }
+  function desk(item) { var d = item.desk || item.region; if (d === "pakistan") d = "global"; return LABEL[d] ? d : "other-markets"; }
   function deskLink(d) { return '<a class="kicker" href="research.html?desk=' + d + '">' + esc(LABEL[d]) + '</a>'; }
   function img(d, w, alt) {
     var b = "assets/desks/" + d;

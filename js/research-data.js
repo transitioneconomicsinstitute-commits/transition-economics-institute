@@ -8,9 +8,13 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Bilal Mohyuddin",
     "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-10-03-furnace-oil-rlng-winter-hedge.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-10-03-furnace-oil-rlng-winter-hedge.html",
+    "countries": [
+      "PK",
+      "QA"
+    ]
   },
   {
     "id": "2026-10-03-crude-returns-products-lag-diesel-market",
@@ -22,7 +26,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-10-03-crude-returns-products-lag-diesel-market.html"
+    "href": "articles/2026-10-03-crude-returns-products-lag-diesel-market.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-10-02-rooftop-solar-back-at-the-disco-desk",
@@ -32,9 +39,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-10-02-imf-review-bisp-power-subsidy-cash-transfer",
@@ -44,9 +54,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Nadia Qureshi",
     "authorSlug": "nadia-qureshi",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-10-02-imf-review-bisp-power-subsidy-cash-transfer.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-10-02-imf-review-bisp-power-subsidy-cash-transfer.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-10-02-asian-seaborne-coal-gulf-lng-outage",
@@ -58,7 +71,15 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html"
+    "href": "articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html",
+    "countries": [
+      "CN",
+      "KR",
+      "ID",
+      "JP",
+      "PK",
+      "IN"
+    ]
   },
   {
     "id": "2026-10-01-henry-hub-storage-gap-gulf-coast-salt",
@@ -70,7 +91,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html"
+    "href": "articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-30-pjm-order-1920-cost-allocation-impasse",
@@ -82,7 +106,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html"
+    "href": "articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-30-pjm-backstop-procurement-pause",
@@ -94,7 +121,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-30-pjm-backstop-procurement-pause.html"
+    "href": "articles/2026-09-30-pjm-backstop-procurement-pause.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-29-ercot-soft-lmps-large-load-premium",
@@ -106,7 +136,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-29-ercot-soft-lmps-large-load-premium.html"
+    "href": "articles/2026-09-29-ercot-soft-lmps-large-load-premium.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-29-ercot-batch-zero-conditional-classifications",
@@ -118,7 +151,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-29-ercot-batch-zero-conditional-classifications.html"
+    "href": "articles/2026-09-29-ercot-batch-zero-conditional-classifications.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-28-palisades-restart-delay-nuclear-restarts",
@@ -130,7 +166,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-28-palisades-restart-delay-nuclear-restarts.html"
+    "href": "articles/2026-09-28-palisades-restart-delay-nuclear-restarts.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-28-hormuz-partial-reopening-and-export-rebound",
@@ -142,7 +181,12 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-09-28-hormuz-partial-reopening-and-export-rebound.html"
+    "href": "articles/2026-09-28-hormuz-partial-reopening-and-export-rebound.html",
+    "countries": [
+      "QA",
+      "SA",
+      "IR"
+    ]
   },
   {
     "id": "2026-09-25-ke-ngc-interconnection-planning",
@@ -152,9 +196,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-09-25-ke-ngc-interconnection-planning.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-25-ke-ngc-interconnection-planning.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-09-21-revolution-wind-completion-offshore-wind-policy-risk",
@@ -166,7 +213,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-21-revolution-wind-completion-offshore-wind-policy-risk.html"
+    "href": "articles/2026-09-21-revolution-wind-completion-offshore-wind-policy-risk.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-18-disco-stake-sale-management-control",
@@ -176,9 +226,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Hassan Raza",
     "authorSlug": "hassan-raza",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-09-18-disco-stake-sale-management-control.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-18-disco-stake-sale-management-control.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-09-14-steo-record-electricity-sales-data-centres",
@@ -190,7 +243,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-14-steo-record-electricity-sales-data-centres.html"
+    "href": "articles/2026-09-14-steo-record-electricity-sales-data-centres.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-09-14-oil-geopolitics-middle-east-tensions",
@@ -202,7 +258,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-09-14-oil-geopolitics-middle-east-tensions.html"
+    "href": "articles/2026-09-14-oil-geopolitics-middle-east-tensions.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-09-14-germany-first-capacity-auction-oversubscribed",
@@ -214,7 +273,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2026-09-14-germany-first-capacity-auction-oversubscribed.html"
+    "href": "articles/2026-09-14-germany-first-capacity-auction-oversubscribed.html",
+    "countries": [
+      "DE"
+    ]
   },
   {
     "id": "2026-09-12-hybrids-bess-wheeling-mandate",
@@ -224,9 +286,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Nadia Qureshi",
     "authorSlug": "nadia-qureshi",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-09-12-hybrids-bess-wheeling-mandate.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-12-hybrids-bess-wheeling-mandate.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-09-12-brent-steo-middle-east-disruption-prices",
@@ -238,7 +303,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-09-12-brent-steo-middle-east-disruption-prices.html"
+    "href": "articles/2026-09-12-brent-steo-middle-east-disruption-prices.html",
+    "countries": [
+      "IR",
+      "US"
+    ]
   },
   {
     "id": "2026-09-10-igcep-2027-data-collection",
@@ -248,9 +317,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Bilal Mohyuddin",
     "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-09-10-igcep-2027-data-collection.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-10-igcep-2027-data-collection.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-09-08-china-oil-demand-falls-hormuz-electrification",
@@ -262,7 +334,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2026-09-08-china-oil-demand-falls-hormuz-electrification.html"
+    "href": "articles/2026-09-08-china-oil-demand-falls-hormuz-electrification.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-09-07-european-power-prices-renewables",
@@ -274,7 +349,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-09-07-european-power-prices-renewables.html"
+    "href": "articles/2026-09-07-european-power-prices-renewables.html",
+    "countries": []
   },
   {
     "id": "2026-09-06-cleared-pending-solar-applications",
@@ -284,9 +360,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Dr. Ali Ahmad",
     "authorSlug": "dr-ali-ahmad",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-09-06-cleared-pending-solar-applications.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-06-cleared-pending-solar-applications.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-08-26-pending-rooftop-solar-cases",
@@ -296,9 +375,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "M. Ali Janjua",
     "authorSlug": "m-ali-janjua",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-08-26-pending-rooftop-solar-cases.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-08-26-pending-rooftop-solar-cases.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-08-24-china-ev-battery-minerals-demand",
@@ -310,7 +392,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-08-24-china-ev-battery-minerals-demand.html"
+    "href": "articles/2026-08-24-china-ev-battery-minerals-demand.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-08-18-power-markets-and-oil-gas-price-shock",
@@ -322,7 +407,14 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-08-18-power-markets-and-oil-gas-price-shock.html"
+    "href": "articles/2026-08-18-power-markets-and-oil-gas-price-shock.html",
+    "countries": [
+      "QA",
+      "PK",
+      "BD",
+      "NL",
+      "AE"
+    ]
   },
   {
     "id": "2026-08-17-us-gas-exports-growth-path-to-2027",
@@ -334,7 +426,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-08-17-us-gas-exports-growth-path-to-2027.html"
+    "href": "articles/2026-08-17-us-gas-exports-growth-path-to-2027.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-08-17-india-270-gw-peak-state-grids",
@@ -346,7 +441,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2026-08-17-india-270-gw-peak-state-grids.html"
+    "href": "articles/2026-08-17-india-270-gw-peak-state-grids.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2026-08-17-ercot-large-load-pause-verification",
@@ -358,7 +456,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-08-17-ercot-large-load-pause-verification.html"
+    "href": "articles/2026-08-17-ercot-large-load-pause-verification.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-08-10-igu-world-lng-report-2026-record",
@@ -370,7 +471,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-08-10-igu-world-lng-report-2026-record.html"
+    "href": "articles/2026-08-10-igu-world-lng-report-2026-record.html",
+    "countries": []
   },
   {
     "id": "2026-07-28-disco-spv-fesco-gepco-iesco",
@@ -380,9 +482,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Jamshed Khan",
     "authorSlug": "jamshed-khan",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-07-28-disco-spv-fesco-gepco-iesco.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-07-28-disco-spv-fesco-gepco-iesco.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-07-20-eu-gas-storage-refill-under-hormuz-stress",
@@ -394,7 +499,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2026-07-20-eu-gas-storage-refill-under-hormuz-stress.html"
+    "href": "articles/2026-07-20-eu-gas-storage-refill-under-hormuz-stress.html",
+    "countries": [
+      "QA"
+    ]
   },
   {
     "id": "2026-07-13-shipping-cape-route-cumulative-costs",
@@ -406,7 +514,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-07-13-shipping-cape-route-cumulative-costs.html"
+    "href": "articles/2026-07-13-shipping-cape-route-cumulative-costs.html",
+    "countries": []
   },
   {
     "id": "2026-07-13-national-transmission-needs-study-draft",
@@ -418,7 +527,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-07-13-national-transmission-needs-study-draft.html"
+    "href": "articles/2026-07-13-national-transmission-needs-study-draft.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-07-13-india-gas-rationing-hormuz-lessons",
@@ -430,7 +542,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2026-07-13-india-gas-rationing-hormuz-lessons.html"
+    "href": "articles/2026-07-13-india-gas-rationing-hormuz-lessons.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2026-06-16-qatar-lng-hormuz-and-ras-laffan",
@@ -442,7 +557,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-06-16-qatar-lng-hormuz-and-ras-laffan.html"
+    "href": "articles/2026-06-16-qatar-lng-hormuz-and-ras-laffan.html",
+    "countries": [
+      "QA"
+    ]
   },
   {
     "id": "2026-06-15-coal-phase-down-asia-trade",
@@ -454,7 +572,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-06-15-coal-phase-down-asia-trade.html"
+    "href": "articles/2026-06-15-coal-phase-down-asia-trade.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-05-18-middle-east-lng-qatar-gulf-exports",
@@ -466,7 +587,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-05-18-middle-east-lng-qatar-gulf-exports.html"
+    "href": "articles/2026-05-18-middle-east-lng-qatar-gulf-exports.html",
+    "countries": []
   },
   {
     "id": "2026-05-12-opec-spare-capacity-under-gulf-disruption",
@@ -478,7 +600,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-05-12-opec-spare-capacity-under-gulf-disruption.html"
+    "href": "articles/2026-05-12-opec-spare-capacity-under-gulf-disruption.html",
+    "countries": [
+      "SA",
+      "IR"
+    ]
   },
   {
     "id": "2026-04-14-iran-crude-exports-eia-vortexa-record",
@@ -490,7 +616,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html"
+    "href": "articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html",
+    "countries": [
+      "IR",
+      "CN"
+    ]
   },
   {
     "id": "2026-04-06-lng-shortfall-qatar-suspension-gas-allocation",
@@ -500,9 +630,13 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "M. Ali Janjua",
     "authorSlug": "m-ali-janjua",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html",
+    "countries": [
+      "PK",
+      "QA"
+    ]
   },
   {
     "id": "2026-03-23-spr-release-gasoline-prices-hormuz",
@@ -514,7 +648,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-03-23-spr-release-gasoline-prices-hormuz.html"
+    "href": "articles/2026-03-23-spr-release-gasoline-prices-hormuz.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2026-03-23-japan-korea-hormuz-oil-reserves",
@@ -526,7 +663,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2026-03-23-japan-korea-hormuz-oil-reserves.html"
+    "href": "articles/2026-03-23-japan-korea-hormuz-oil-reserves.html",
+    "countries": [
+      "JP",
+      "KR"
+    ]
   },
   {
     "id": "2026-03-20-china-15th-five-year-plan-carbon-intensity",
@@ -538,7 +679,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html"
+    "href": "articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-03-18-iea-collective-stock-release-400m-barrels",
@@ -550,7 +694,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2026-03-18-iea-collective-stock-release-400m-barrels.html"
+    "href": "articles/2026-03-18-iea-collective-stock-release-400m-barrels.html",
+    "countries": [
+      "IN",
+      "PK"
+    ]
   },
   {
     "id": "2026-03-16-hormuz-austerity-fuel-demand",
@@ -560,9 +708,12 @@ window.TEI_RESEARCH = [
     "year": "2026",
     "author": "Jamshed Khan",
     "authorSlug": "jamshed-khan",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-03-16-hormuz-austerity-fuel-demand.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-03-16-hormuz-austerity-fuel-demand.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2026-03-10-hormuz-oil-transit-collapse-iea",
@@ -574,7 +725,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-03-10-hormuz-oil-transit-collapse-iea.html"
+    "href": "articles/2026-03-10-hormuz-oil-transit-collapse-iea.html",
+    "countries": [
+      "AE",
+      "SA"
+    ]
   },
   {
     "id": "2026-03-10-hormuz-crude-transit-documented-flows",
@@ -586,7 +741,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "middle-east",
     "regionLabel": "Middle East",
-    "href": "articles/2026-03-10-hormuz-crude-transit-documented-flows.html"
+    "href": "articles/2026-03-10-hormuz-crude-transit-documented-flows.html",
+    "countries": [
+      "SA"
+    ]
   },
   {
     "id": "2026-02-16-eu-russian-gas-ban-regulation",
@@ -598,7 +756,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2026-02-16-eu-russian-gas-ban-regulation.html"
+    "href": "articles/2026-02-16-eu-russian-gas-ban-regulation.html",
+    "countries": [
+      "RU"
+    ]
   },
   {
     "id": "2026-02-16-china-2025-wind-solar-overtake-thermal",
@@ -610,7 +771,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html"
+    "href": "articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2026-02-09-mozambique-lng-full-restart",
@@ -622,7 +786,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2026-02-09-mozambique-lng-full-restart.html"
+    "href": "articles/2026-02-09-mozambique-lng-full-restart.html",
+    "countries": [
+      "MZ"
+    ]
   },
   {
     "id": "2026-01-26-india-discoms-first-profit",
@@ -634,7 +801,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2026-01-26-india-discoms-first-profit.html"
+    "href": "articles/2026-01-26-india-discoms-first-profit.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2026-01-19-india-record-2025-solar-additions",
@@ -646,7 +816,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2026-01-19-india-record-2025-solar-additions.html"
+    "href": "articles/2026-01-19-india-record-2025-solar-additions.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2026-01-12-cbam-definitive-phase-begins",
@@ -658,7 +831,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2026-01-12-cbam-definitive-phase-begins.html"
+    "href": "articles/2026-01-12-cbam-definitive-phase-begins.html",
+    "countries": []
   },
   {
     "id": "2025-12-29-india-shanti-act-nuclear-opening",
@@ -670,7 +844,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2025-12-29-india-shanti-act-nuclear-opening.html"
+    "href": "articles/2025-12-29-india-shanti-act-nuclear-opening.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2025-12-15-lng-contracting-europe-demand-uncertainty",
@@ -682,7 +859,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-12-15-lng-contracting-europe-demand-uncertainty.html"
+    "href": "articles/2025-12-15-lng-contracting-europe-demand-uncertainty.html",
+    "countries": []
   },
   {
     "id": "2025-12-15-coal-retirement-delays-and-emergency-orders",
@@ -694,7 +872,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-12-15-coal-retirement-delays-and-emergency-orders.html"
+    "href": "articles/2025-12-15-coal-retirement-delays-and-emergency-orders.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-12-10-circular-debt-stock-vs-flow",
@@ -704,9 +885,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-12-10-circular-debt-stock-vs-flow.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-12-10-circular-debt-stock-vs-flow.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap",
@@ -718,7 +902,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap.html"
+    "href": "articles/2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap.html",
+    "countries": [
+      "BR"
+    ]
   },
   {
     "id": "2025-11-17-iea-weo-2025-energy-security-scenarios",
@@ -730,7 +917,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-11-17-iea-weo-2025-energy-security-scenarios.html"
+    "href": "articles/2025-11-17-iea-weo-2025-energy-security-scenarios.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-11-17-federal-energy-dominance-and-gas-markets",
@@ -742,7 +932,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-11-17-federal-energy-dominance-and-gas-markets.html"
+    "href": "articles/2025-11-17-federal-energy-dominance-and-gas-markets.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-11-17-eu-2040-target-90-percent-flexibilities",
@@ -754,7 +947,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2025-11-17-eu-2040-target-90-percent-flexibilities.html"
+    "href": "articles/2025-11-17-eu-2040-target-90-percent-flexibilities.html",
+    "countries": []
   },
   {
     "id": "2025-11-17-china-lng-coal-power-dual",
@@ -766,7 +960,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-11-17-china-lng-coal-power-dual.html"
+    "href": "articles/2025-11-17-china-lng-coal-power-dual.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-11-04-eni-lng-cargo-cancellations",
@@ -776,9 +973,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Hassan Raza",
     "authorSlug": "hassan-raza",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-11-04-eni-lng-cargo-cancellations.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-11-04-eni-lng-cargo-cancellations.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-10-27-drc-cobalt-quotas-replace-ban",
@@ -790,7 +990,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-10-27-drc-cobalt-quotas-replace-ban.html"
+    "href": "articles/2025-10-27-drc-cobalt-quotas-replace-ban.html",
+    "countries": [
+      "CD"
+    ]
   },
   {
     "id": "2025-10-27-brazil-foz-do-amazonas-drilling-licence",
@@ -802,7 +1005,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2025-10-27-brazil-foz-do-amazonas-drilling-licence.html"
+    "href": "articles/2025-10-27-brazil-foz-do-amazonas-drilling-licence.html",
+    "countries": [
+      "BR"
+    ]
   },
   {
     "id": "2025-10-20-india-carbon-market-first-intensity-targets",
@@ -814,7 +1020,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2025-10-20-india-carbon-market-first-intensity-targets.html"
+    "href": "articles/2025-10-20-india-carbon-market-first-intensity-targets.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2025-10-14-ders-disco-igcep-inputs",
@@ -824,9 +1033,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Nadia Qureshi",
     "authorSlug": "nadia-qureshi",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-10-14-ders-disco-igcep-inputs.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-10-14-ders-disco-igcep-inputs.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-10-13-oil-market-non-opec-supply-surplus-risk",
@@ -838,7 +1050,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-10-13-oil-market-non-opec-supply-surplus-risk.html"
+    "href": "articles/2025-10-13-oil-market-non-opec-supply-surplus-risk.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-10-13-iberian-blackout-factual-report",
@@ -850,7 +1065,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2025-10-13-iberian-blackout-factual-report.html"
+    "href": "articles/2025-10-13-iberian-blackout-factual-report.html",
+    "countries": [
+      "ES",
+      "FR"
+    ]
   },
   {
     "id": "2025-10-13-colocated-large-loads-and-tariff-design",
@@ -862,7 +1081,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-10-13-colocated-large-loads-and-tariff-design.html"
+    "href": "articles/2025-10-13-colocated-large-loads-and-tariff-design.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-10-06-trump-oil-reserves-claim-reality",
@@ -872,9 +1094,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-10-06-trump-oil-reserves-claim-reality.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-10-06-trump-oil-reserves-claim-reality.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-10-06-china-2035-ndc-7-to-10-per-cent",
@@ -886,7 +1111,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html"
+    "href": "articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-09-22-australia-2035-target",
@@ -898,7 +1126,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2025-09-22-australia-2035-target.html"
+    "href": "articles/2025-09-22-australia-2035-target.html",
+    "countries": [
+      "AU"
+    ]
   },
   {
     "id": "2025-09-15-renewables-share-electricity-generation",
@@ -910,7 +1141,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-09-15-renewables-share-electricity-generation.html"
+    "href": "articles/2025-09-15-renewables-share-electricity-generation.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-09-15-gerd-inauguration-power-and-the-nile",
@@ -922,7 +1156,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-09-15-gerd-inauguration-power-and-the-nile.html"
+    "href": "articles/2025-09-15-gerd-inauguration-power-and-the-nile.html",
+    "countries": [
+      "ET"
+    ]
   },
   {
     "id": "2025-09-15-fy25-generation-mix",
@@ -932,9 +1169,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Bilal Mohyuddin",
     "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-09-15-fy25-generation-mix.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-09-15-fy25-generation-mix.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-09-15-european-electricity-flexibility-gap",
@@ -946,7 +1186,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-09-15-european-electricity-flexibility-gap.html"
+    "href": "articles/2025-09-15-european-electricity-flexibility-gap.html",
+    "countries": []
   },
   {
     "id": "2025-09-08-nev-policy-levy-electric-two-wheelers",
@@ -956,9 +1197,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Hassan Raza",
     "authorSlug": "hassan-raza",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-09-08-nev-policy-levy-electric-two-wheelers.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-09-08-nev-policy-levy-electric-two-wheelers.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-09-01-africa-solar-imports-surge",
@@ -970,7 +1214,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-09-01-africa-solar-imports-surge.html"
+    "href": "articles/2025-09-01-africa-solar-imports-surge.html",
+    "countries": [
+      "PK",
+      "CN"
+    ]
   },
   {
     "id": "2025-08-20-igcep-2025-35-revision",
@@ -980,9 +1228,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Dr. Ali Ahmad",
     "authorSlug": "dr-ali-ahmad",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-08-20-igcep-2025-35-revision.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-08-20-igcep-2025-35-revision.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-08-18-transmission-investment-gap-load-growth",
@@ -994,7 +1245,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-08-18-transmission-investment-gap-load-growth.html"
+    "href": "articles/2025-08-18-transmission-investment-gap-load-growth.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-08-18-middle-east-spare-capacity-oil",
@@ -1006,7 +1260,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-08-18-middle-east-spare-capacity-oil.html"
+    "href": "articles/2025-08-18-middle-east-spare-capacity-oil.html",
+    "countries": [
+      "SA",
+      "CN"
+    ]
   },
   {
     "id": "2025-07-28-china-yarlung-tsangpo-hydropower-cascade",
@@ -1018,7 +1276,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2025-07-28-china-yarlung-tsangpo-hydropower-cascade.html"
+    "href": "articles/2025-07-28-china-yarlung-tsangpo-hydropower-cascade.html",
+    "countries": [
+      "CN",
+      "IN"
+    ]
   },
   {
     "id": "2025-07-21-pm-blocks-net-metering-review",
@@ -1028,9 +1290,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "M. Ali Janjua",
     "authorSlug": "m-ali-janjua",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-07-21-pm-blocks-net-metering-review.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-07-21-pm-blocks-net-metering-review.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-07-21-obbba-wind-solar-credit-cliff",
@@ -1042,7 +1307,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-07-21-obbba-wind-solar-credit-cliff.html"
+    "href": "articles/2025-07-21-obbba-wind-solar-credit-cliff.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-07-21-india-50-per-cent-non-fossil-capacity",
@@ -1054,7 +1322,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html"
+    "href": "articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2025-07-14-uk-rejects-zonal-pricing-rema",
@@ -1066,7 +1337,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2025-07-14-uk-rejects-zonal-pricing-rema.html"
+    "href": "articles/2025-07-14-uk-rejects-zonal-pricing-rema.html",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "id": "2025-07-14-shipping-chokepoints-energy-security",
@@ -1078,7 +1352,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-07-14-shipping-chokepoints-energy-security.html"
+    "href": "articles/2025-07-14-shipping-chokepoints-energy-security.html",
+    "countries": []
   },
   {
     "id": "2025-07-14-nuclear-smr-licensing-after-advance-act",
@@ -1090,7 +1365,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html"
+    "href": "articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-07-07-climate-support-levy-fuel",
@@ -1100,9 +1378,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Nadia Qureshi",
     "authorSlug": "nadia-qureshi",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-07-07-climate-support-levy-fuel.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-07-07-climate-support-levy-fuel.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-06-30-china-may-solar-rush-93gw",
@@ -1114,7 +1395,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2025-06-30-china-may-solar-rush-93gw.html"
+    "href": "articles/2025-06-30-china-may-solar-rush-93gw.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-06-18-local-vs-imported-coal",
@@ -1124,9 +1408,12 @@ window.TEI_RESEARCH = [
     "year": "2025",
     "author": "Jamshed Khan",
     "authorSlug": "jamshed-khan",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-06-18-local-vs-imported-coal.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-06-18-local-vs-imported-coal.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2025-06-16-ercot-load-growth-and-reliability",
@@ -1138,7 +1425,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-06-16-ercot-load-growth-and-reliability.html"
+    "href": "articles/2025-06-16-ercot-load-growth-and-reliability.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2025-06-16-coal-trade-record-then-retreat",
@@ -1150,7 +1440,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-06-16-coal-trade-record-then-retreat.html"
+    "href": "articles/2025-06-16-coal-trade-record-then-retreat.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-04-28-greater-tortue-first-lng-cargo",
@@ -1162,7 +1455,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-04-28-greater-tortue-first-lng-cargo.html"
+    "href": "articles/2025-04-28-greater-tortue-first-lng-cargo.html",
+    "countries": [
+      "SN",
+      "MR"
+    ]
   },
   {
     "id": "2025-04-07-india-coal-one-billion-tonnes",
@@ -1174,7 +1471,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2025-04-07-india-coal-one-billion-tonnes.html"
+    "href": "articles/2025-04-07-india-coal-one-billion-tonnes.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2025-03-31-iea-global-energy-review-2025-electricity-demand",
@@ -1186,7 +1486,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2025-03-31-iea-global-energy-review-2025-electricity-demand.html"
+    "href": "articles/2025-03-31-iea-global-energy-review-2025-electricity-demand.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-03-03-affordable-energy-action-plan",
@@ -1198,7 +1501,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2025-03-03-affordable-energy-action-plan.html"
+    "href": "articles/2025-03-03-affordable-energy-action-plan.html",
+    "countries": []
   },
   {
     "id": "2025-02-24-japan-seventh-strategic-energy-plan",
@@ -1210,7 +1514,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2025-02-24-japan-seventh-strategic-energy-plan.html"
+    "href": "articles/2025-02-24-japan-seventh-strategic-energy-plan.html",
+    "countries": [
+      "JP"
+    ]
   },
   {
     "id": "2025-02-24-china-document-136-renewables-market-pricing",
@@ -1222,7 +1529,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2025-02-24-china-document-136-renewables-market-pricing.html"
+    "href": "articles/2025-02-24-china-document-136-renewables-market-pricing.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-02-03-mission-300-dar-es-salaam-compacts",
@@ -1234,7 +1544,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-02-03-mission-300-dar-es-salaam-compacts.html"
+    "href": "articles/2025-02-03-mission-300-dar-es-salaam-compacts.html",
+    "countries": []
   },
   {
     "id": "2025-02-03-china-lng-2024-pipeline-squeeze",
@@ -1246,7 +1557,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2025-02-03-china-lng-2024-pipeline-squeeze.html"
+    "href": "articles/2025-02-03-china-lng-2024-pipeline-squeeze.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2025-01-13-south-africa-era-act-market-opens",
@@ -1258,7 +1572,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2025-01-13-south-africa-era-act-market-opens.html"
+    "href": "articles/2025-01-13-south-africa-era-act-market-opens.html",
+    "countries": [
+      "ZA"
+    ]
   },
   {
     "id": "2025-01-13-45y-48e-final-rules-tech-neutral-credits",
@@ -1270,7 +1587,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2025-01-13-45y-48e-final-rules-tech-neutral-credits.html"
+    "href": "articles/2025-01-13-45y-48e-final-rules-tech-neutral-credits.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-12-23-dunkelflaute-price-spike-and-nordic-backlash",
@@ -1282,7 +1602,12 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2024-12-23-dunkelflaute-price-spike-and-nordic-backlash.html"
+    "href": "articles/2024-12-23-dunkelflaute-price-spike-and-nordic-backlash.html",
+    "countries": [
+      "DE",
+      "NO",
+      "SE"
+    ]
   },
   {
     "id": "2024-12-16-us-lng-exports-2024-year-end",
@@ -1294,7 +1619,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-12-16-us-lng-exports-2024-year-end.html"
+    "href": "articles/2024-12-16-us-lng-exports-2024-year-end.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-12-16-opec-plus-delays-unwind-to-april-2025",
@@ -1306,7 +1634,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html"
+    "href": "articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-12-04-ipp-ppa-renegotiation",
@@ -1316,9 +1647,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-12-04-ipp-ppa-renegotiation.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-12-04-ipp-ppa-renegotiation.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-12-02-cop29-ncqg-climate-finance-energy-investment",
@@ -1330,7 +1664,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-12-02-cop29-ncqg-climate-finance-energy-investment.html"
+    "href": "articles/2024-12-02-cop29-ncqg-climate-finance-energy-investment.html",
+    "countries": [
+      "BR",
+      "CN"
+    ]
   },
   {
     "id": "2024-11-20-india-200-gw-renewables-500-gw-gap",
@@ -1342,7 +1680,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2024-11-20-india-200-gw-renewables-500-gw-gap.html"
+    "href": "articles/2024-11-20-india-200-gw-renewables-500-gw-gap.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2024-11-18-nuclear-licence-renewals-and-fleet-value",
@@ -1354,7 +1695,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-11-18-nuclear-licence-renewals-and-fleet-value.html"
+    "href": "articles/2024-11-18-nuclear-licence-renewals-and-fleet-value.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-11-18-china-energy-law-what-changes",
@@ -1366,7 +1710,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2024-11-18-china-energy-law-what-changes.html"
+    "href": "articles/2024-11-18-china-energy-law-what-changes.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-11-11-lng-trade-atlantic-pacific-rebalancing",
@@ -1378,7 +1725,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-11-11-lng-trade-atlantic-pacific-rebalancing.html"
+    "href": "articles/2024-11-11-lng-trade-atlantic-pacific-rebalancing.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang",
@@ -1390,7 +1740,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang.html"
+    "href": "articles/2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-10-15-thar-mine-expansion-finance",
@@ -1400,9 +1753,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Hassan Raza",
     "authorSlug": "hassan-raza",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-10-15-thar-mine-expansion-finance.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-10-15-thar-mine-expansion-finance.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-10-14-red-sea-oil-flows-eia-assessment",
@@ -1414,7 +1770,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-10-14-red-sea-oil-flows-eia-assessment.html"
+    "href": "articles/2024-10-14-red-sea-oil-flows-eia-assessment.html",
+    "countries": []
   },
   {
     "id": "2024-10-14-pjm-capacity-reliability-rising-load",
@@ -1426,7 +1783,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-10-14-pjm-capacity-reliability-rising-load.html"
+    "href": "articles/2024-10-14-pjm-capacity-reliability-rising-load.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-10-08-jhimpir-gharo-wind-curtailment",
@@ -1436,9 +1796,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Nadia Qureshi",
     "authorSlug": "nadia-qureshi",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-10-08-jhimpir-gharo-wind-curtailment.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-10-08-jhimpir-gharo-wind-curtailment.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-09-30-imf-eff-energy-conditionality",
@@ -1448,9 +1811,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Bilal Mohyuddin",
     "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-09-30-imf-eff-energy-conditionality.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-09-30-imf-eff-energy-conditionality.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-09-23-dangote-petrol-pricing-test",
@@ -1462,7 +1828,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2024-09-23-dangote-petrol-pricing-test.html"
+    "href": "articles/2024-09-23-dangote-petrol-pricing-test.html",
+    "countries": [
+      "NG"
+    ]
   },
   {
     "id": "2024-09-18-utility-scale-solar-after-qasp",
@@ -1472,9 +1841,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Dr. Ali Ahmad",
     "authorSlug": "dr-ali-ahmad",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-09-18-utility-scale-solar-after-qasp.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-09-18-utility-scale-solar-after-qasp.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-09-16-interconnection-queue-cluster-study-rollout",
@@ -1486,7 +1858,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-09-16-interconnection-queue-cluster-study-rollout.html"
+    "href": "articles/2024-09-16-interconnection-queue-cluster-study-rollout.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-09-16-european-power-renewables-prices",
@@ -1498,7 +1873,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-09-16-european-power-renewables-prices.html"
+    "href": "articles/2024-09-16-european-power-renewables-prices.html",
+    "countries": []
   },
   {
     "id": "2024-09-16-draghi-report-energy-prices",
@@ -1510,7 +1886,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2024-09-16-draghi-report-energy-prices.html"
+    "href": "articles/2024-09-16-draghi-report-energy-prices.html",
+    "countries": []
   },
   {
     "id": "2024-09-09-uk-ar6-offshore-wind-recovery",
@@ -1522,7 +1899,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2024-09-09-uk-ar6-offshore-wind-recovery.html"
+    "href": "articles/2024-09-09-uk-ar6-offshore-wind-recovery.html",
+    "countries": [
+      "GB"
+    ]
   },
   {
     "id": "2024-09-09-opec-plus-delays-unwind-two-months",
@@ -1534,7 +1914,13 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-09-09-opec-plus-delays-unwind-two-months.html"
+    "href": "articles/2024-09-09-opec-plus-delays-unwind-two-months.html",
+    "countries": [
+      "CN",
+      "IQ",
+      "KZ",
+      "SA"
+    ]
   },
   {
     "id": "2024-09-02-argentina-rigi-energy-investment",
@@ -1546,7 +1932,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2024-09-02-argentina-rigi-energy-investment.html"
+    "href": "articles/2024-09-02-argentina-rigi-energy-investment.html",
+    "countries": [
+      "AR"
+    ]
   },
   {
     "id": "2024-08-26-china-wind-solar-overtake-coal-capacity",
@@ -1558,7 +1947,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2024-08-26-china-wind-solar-overtake-coal-capacity.html"
+    "href": "articles/2024-08-26-china-wind-solar-overtake-coal-capacity.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-08-22-rooftop-solar-net-metering-boom",
@@ -1568,9 +1960,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "M. Ali Janjua",
     "authorSlug": "m-ali-janjua",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-08-22-rooftop-solar-net-metering-boom.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-08-22-rooftop-solar-net-metering-boom.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-08-19-middle-east-supply-hormuz-security",
@@ -1582,7 +1977,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-08-19-middle-east-supply-hormuz-security.html"
+    "href": "articles/2024-08-19-middle-east-supply-hormuz-security.html",
+    "countries": [
+      "IR"
+    ]
   },
   {
     "id": "2024-08-19-henry-hub-lng-feedgas-power-competition",
@@ -1594,7 +1992,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-08-19-henry-hub-lng-feedgas-power-competition.html"
+    "href": "articles/2024-08-19-henry-hub-lng-feedgas-power-competition.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-08-05-coal-to-gas-replacements-and-retirement-economics",
@@ -1606,7 +2007,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-08-05-coal-to-gas-replacements-and-retirement-economics.html"
+    "href": "articles/2024-08-05-coal-to-gas-replacements-and-retirement-economics.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-07-25-tariff-rebasing-imf-conditionality",
@@ -1616,9 +2020,12 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Jamshed Khan",
     "authorSlug": "jamshed-khan",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-07-25-tariff-rebasing-imf-conditionality.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-07-25-tariff-rebasing-imf-conditionality.html",
+    "countries": [
+      "PK"
+    ]
   },
   {
     "id": "2024-07-22-vietnam-dppa-decree-80",
@@ -1630,7 +2037,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "other-markets",
     "regionLabel": "Other markets",
-    "href": "articles/2024-07-22-vietnam-dppa-decree-80.html"
+    "href": "articles/2024-07-22-vietnam-dppa-decree-80.html",
+    "countries": [
+      "VN"
+    ]
   },
   {
     "id": "2024-07-15-global-coal-trade-asia-pacific",
@@ -1642,7 +2052,11 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-07-15-global-coal-trade-asia-pacific.html"
+    "href": "articles/2024-07-15-global-coal-trade-asia-pacific.html",
+    "countries": [
+      "CN",
+      "ID"
+    ]
   },
   {
     "id": "2024-07-15-advance-act-nuclear-licensing-reform",
@@ -1654,7 +2068,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html"
+    "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-07-08-south-africa-100-days-without-load-shedding",
@@ -1666,7 +2083,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "nadia-qureshi",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2024-07-08-south-africa-100-days-without-load-shedding.html"
+    "href": "articles/2024-07-08-south-africa-100-days-without-load-shedding.html",
+    "countries": [
+      "ZA"
+    ]
   },
   {
     "id": "2024-06-24-india-offshore-wind-vgf-first-gigawatt",
@@ -1678,7 +2098,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "dr-ali-ahmad",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html"
+    "href": "articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2024-06-24-eu-electricity-market-design-reform",
@@ -1690,7 +2113,8 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "europe",
     "regionLabel": "Europe",
-    "href": "articles/2024-06-24-eu-electricity-market-design-reform.html"
+    "href": "articles/2024-06-24-eu-electricity-market-design-reform.html",
+    "countries": []
   },
   {
     "id": "2024-06-10-india-250-gw-peak-thermal-backbone",
@@ -1702,7 +2126,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "sana-iqbal",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2024-06-10-india-250-gw-peak-thermal-backbone.html"
+    "href": "articles/2024-06-10-india-250-gw-peak-thermal-backbone.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2024-05-31-china-march-emissions-fall-peak-test",
@@ -1714,7 +2141,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "m-ali-janjua",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html"
+    "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html",
+    "countries": [
+      "CN"
+    ]
   },
   {
     "id": "2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons",
@@ -1726,7 +2156,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "claire-dunne",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons.html"
+    "href": "articles/2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons.html",
+    "countries": [
+      "US"
+    ]
   },
   {
     "id": "2024-04-15-nigeria-band-a-tariff-reset",
@@ -1738,7 +2171,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "bilal-mohyuddin",
     "region": "africa",
     "regionLabel": "Africa",
-    "href": "articles/2024-04-15-nigeria-band-a-tariff-reset.html"
+    "href": "articles/2024-04-15-nigeria-band-a-tariff-reset.html",
+    "countries": [
+      "NG"
+    ]
   },
   {
     "id": "2024-03-11-iran-pakistan-pipeline-80km-gambit",
@@ -1748,9 +2184,13 @@ window.TEI_RESEARCH = [
     "year": "2024",
     "author": "Bilal Mohyuddin",
     "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2024-03-11-iran-pakistan-pipeline-80km-gambit.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-03-11-iran-pakistan-pipeline-80km-gambit.html",
+    "countries": [
+      "PK",
+      "IR"
+    ]
   },
   {
     "id": "2024-03-11-india-pm-surya-ghar-rooftop-solar",
@@ -1762,7 +2202,10 @@ window.TEI_RESEARCH = [
     "authorSlug": "hassan-raza",
     "region": "india",
     "regionLabel": "India",
-    "href": "articles/2024-03-11-india-pm-surya-ghar-rooftop-solar.html"
+    "href": "articles/2024-03-11-india-pm-surya-ghar-rooftop-solar.html",
+    "countries": [
+      "IN"
+    ]
   },
   {
     "id": "2024-02-05-china-2023-solar-record-grid-question",
@@ -1774,6 +2217,9 @@ window.TEI_RESEARCH = [
     "authorSlug": "jamshed-khan",
     "region": "china",
     "regionLabel": "China",
-    "href": "articles/2024-02-05-china-2023-solar-record-grid-question.html"
+    "href": "articles/2024-02-05-china-2023-solar-record-grid-question.html",
+    "countries": [
+      "CN"
+    ]
   }
 ];

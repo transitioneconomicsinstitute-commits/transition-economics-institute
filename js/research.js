@@ -3,7 +3,22 @@
   var list = document.getElementById("research-results");
   var statusEl = document.getElementById("filter-status");
   if (!list) return;
-  var TEI_DESKS = {"pakistan": "Pakistan", "united-states": "United States", "china": "China", "india": "India", "middle-east": "Middle East", "europe": "Europe", "africa": "Africa", "global": "Global", "other-markets": "Other markets"};
+  var qs0 = null; try { qs0 = new URLSearchParams(window.location.search); } catch (err) {}
+  if (qs0) {
+    var rq = String(qs0.get("region") || qs0.get("desk") || "").toLowerCase();
+    if (rq === "pakistan") { window.location.replace("map.html?country=PK"); return; }
+  }
+  var TEI_COUNTRY = qs0 && qs0.get("country") ? String(qs0.get("country")).toUpperCase().slice(0, 2) : "";
+  var COUNTRY_NAMES = window.TEI_COUNTRIES || {};
+  var note = document.getElementById("country-filter-note");
+  if (TEI_COUNTRY && note) {
+    note.hidden = false;
+    note.innerHTML = "";
+    note.appendChild(document.createTextNode("Country: " + (COUNTRY_NAMES[TEI_COUNTRY] || TEI_COUNTRY) + " \u00b7 "));
+    var clr = document.createElement("a"); clr.href = "research.html"; clr.textContent = "Show all countries";
+    note.appendChild(clr);
+  }
+  var TEI_DESKS = {"united-states": "United States", "china": "China", "india": "India", "middle-east": "Middle East", "europe": "Europe", "africa": "Africa", "global": "Global", "other-markets": "Other markets"};
   function deskLabel(item) { return TEI_DESKS[item.region] || item.regionLabel; }
 
   function checkedValues(name) {
@@ -48,6 +63,7 @@
     if (years.length && years.indexOf(item.year) === -1) return false;
     if (regions.length && regions.indexOf(item.region) === -1) return false;
     if (authors.length && authors.indexOf(item.authorSlug) === -1) return false;
+    if (TEI_COUNTRY && (item.countries || []).indexOf(TEI_COUNTRY) === -1) return false;
     return true;
   }
 
@@ -110,6 +126,7 @@
       if (years.length) bits.push("year");
       if (regions.length) bits.push("region");
       if (authors.length) bits.push("author");
+      if (TEI_COUNTRY) bits.push("country");
       if (data.length === 0) {
         statusEl.textContent = "No articles in the index yet.";
       } else if (visible.length === 0) {
