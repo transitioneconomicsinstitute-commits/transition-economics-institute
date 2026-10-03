@@ -1,6 +1,90 @@
 // Research index.
 window.TEI_RESEARCH = [
   {
+    "id": "2026-10-03-crude-returns-products-lag-diesel-market",
+    "title": "The Crude Is Back, the Diesel Is Not: Why October's Oil Market Is a Products Market",
+    "date": "2026-10-03",
+    "dateDisplay": "3 October 2026",
+    "year": "2026",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-10-03-crude-returns-products-lag-diesel-market.html"
+  },
+  {
+    "id": "2026-10-03-furnace-oil-rlng-winter-hedge",
+    "title": "Furnace Oil Is Pakistan's Hedge Against Spot LNG. It Needs to Become a Plan.",
+    "date": "2026-10-03",
+    "dateDisplay": "3 October 2026",
+    "year": "2026",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-10-03-furnace-oil-rlng-winter-hedge.html"
+  },
+  {
+    "id": "2026-10-02-imf-review-bisp-power-subsidy-cash-transfer",
+    "title": "Cash Through BISP, Debt Through Islamabad: What the IMF Review Can and Cannot Fix in Power Subsidies",
+    "date": "2026-10-02",
+    "dateDisplay": "2 October 2026",
+    "year": "2026",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-10-02-imf-review-bisp-power-subsidy-cash-transfer.html"
+  },
+  {
+    "id": "2026-10-02-asian-seaborne-coal-gulf-lng-outage",
+    "title": "Coal as Asia's Shock Absorber: Seaborne Thermal Coal during the 2026 Gulf LNG Outage",
+    "date": "2026-10-02",
+    "dateDisplay": "2 October 2026",
+    "year": "2026",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html"
+  },
+  {
+    "id": "2026-10-02-rooftop-solar-back-at-the-disco-desk",
+    "title": "Rooftop Solar Back at the DISCO Desk: The 25 kW Approval and the 80% Transformer Ceiling",
+    "date": "2026-10-02",
+    "dateDisplay": "2 October 2026",
+    "year": "2026",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html"
+  },
+  {
+    "id": "2026-10-01-henry-hub-storage-gap-gulf-coast-salt",
+    "title": "Three-Dollar Henry Hub Is a Liquefaction Ceiling, Not a Storage Cushion",
+    "date": "2026-10-01",
+    "dateDisplay": "1 October 2026",
+    "year": "2026",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html"
+  },
+  {
+    "id": "2026-09-30-pjm-backstop-procurement-pause",
+    "title": "PJM's Backstop Procurement Pause: Re-size the 6.8 GW Target Before It Is Bought",
+    "date": "2026-09-30",
+    "dateDisplay": "30 September 2026",
+    "year": "2026",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-09-30-pjm-backstop-procurement-pause.html"
+  },
+  {
     "id": "2026-09-30-pjm-order-1920-cost-allocation-impasse",
     "title": "PJM's Order 1920 Cost Allocation Impasse: Two Proposals, One Tariff and a Pending Fourth Circuit Ruling",
     "date": "2026-09-30",
