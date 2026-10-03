@@ -121,6 +121,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-29-ercot-batch-zero-conditional-classifications.html"
   },
   {
+    "id": "2026-09-28-palisades-restart-delay-nuclear-restarts",
+    "title": "The Palisades Delay Is a Warning for Every Nuclear Restart Plan",
+    "date": "2026-09-28",
+    "dateDisplay": "28 September 2026",
+    "year": "2026",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-09-28-palisades-restart-delay-nuclear-restarts.html"
+  },
+  {
     "id": "2026-09-28-hormuz-partial-reopening-and-export-rebound",
     "title": "Hormuz Partial Reopening and the September Export Rebound",
     "date": "2026-09-28",
@@ -143,6 +155,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2026-09-25-ke-ngc-interconnection-planning.html"
+  },
+  {
+    "id": "2026-09-21-revolution-wind-completion-offshore-wind-policy-risk",
+    "title": "Revolution Wind Survived Two Stop-Work Orders. US Offshore Wind Has Not Survived the Policy Risk",
+    "date": "2026-09-21",
+    "dateDisplay": "21 September 2026",
+    "year": "2026",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-09-21-revolution-wind-completion-offshore-wind-policy-risk.html"
   },
   {
     "id": "2026-09-18-disco-stake-sale-management-control",
@@ -479,6 +503,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html"
+  },
+  {
+    "id": "2026-03-23-spr-release-gasoline-prices-hormuz",
+    "title": "A 172-Million-Barrel SPR Release Cannot Replace Hormuz. What It Can and Cannot Do for US Gasoline Prices",
+    "date": "2026-03-23",
+    "dateDisplay": "23 March 2026",
+    "year": "2026",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-03-23-spr-release-gasoline-prices-hormuz.html"
   },
   {
     "id": "2026-03-23-japan-korea-hormuz-oil-reserves",
@@ -961,6 +997,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-07-21-pm-blocks-net-metering-review.html"
   },
   {
+    "id": "2025-07-21-obbba-wind-solar-credit-cliff",
+    "title": "The One Big Beautiful Bill Act Puts Wind and Solar on a Two-Year Clock",
+    "date": "2025-07-21",
+    "dateDisplay": "21 July 2025",
+    "year": "2025",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2025-07-21-obbba-wind-solar-credit-cliff.html"
+  },
+  {
     "id": "2025-07-21-india-50-per-cent-non-fossil-capacity",
     "title": "Half the Fleet, a Fifth of the Energy: India's 50 Per Cent Non-Fossil Milestone in Perspective",
     "date": "2025-07-21",
@@ -1163,6 +1211,18 @@ window.TEI_RESEARCH = [
     "region": "africa",
     "regionLabel": "Africa",
     "href": "articles/2025-01-13-south-africa-era-act-market-opens.html"
+  },
+  {
+    "id": "2025-01-13-45y-48e-final-rules-tech-neutral-credits",
+    "title": "Treasury's Final 45Y and 48E Rules Bring Clarity to Clean Power Credits Just as Their Political Future Darkens",
+    "date": "2025-01-13",
+    "dateDisplay": "13 January 2025",
+    "year": "2025",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2025-01-13-45y-48e-final-rules-tech-neutral-credits.html"
   },
   {
     "id": "2024-12-23-dunkelflaute-price-spike-and-nordic-backlash",
@@ -1583,6 +1643,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html"
+  },
+  {
+    "id": "2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons",
+    "title": "Vogtle Is Finished. The Lessons for the Next US Reactor Are About Cost, Not Technology",
+    "date": "2024-05-06",
+    "dateDisplay": "6 May 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons.html"
   },
   {
     "id": "2024-04-15-nigeria-band-a-tariff-reset",
