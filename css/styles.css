@@ -1926,3 +1926,21 @@ a:focus-visible {
 .map-teaser__list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--tei-border); }
 .map-teaser__list li { display: flex; justify-content: space-between; padding: 0.45rem 0; border-bottom: 1px solid var(--tei-border); font-size: 0.875rem; }
 .map-teaser__list span { color: var(--tei-muted); font-variant-numeric: tabular-nums; }
+
+/* Banner C letterhead (cream, shown whole on all widths) */
+.letterhead-strip { display: block; background: #F5F3EE; border-bottom: 1px solid var(--tei-border); line-height: 0; }
+.letterhead-strip picture { display: block; max-width: 720px; margin: 0 auto; padding: 0 var(--gutter); }
+.letterhead-strip img { display: block; width: 100%; height: auto; object-fit: initial; }
+@media (max-width: 29.99rem) {
+  .letterhead-strip { display: block; }
+  .letterhead-strip picture { padding: 0; }
+}
+
+/* Mobile nav: wrap tidily under the brand instead of running off the edge */
+@media (max-width: 47.99rem) {
+  .site-header__inner { flex-wrap: wrap; row-gap: 0; }
+  .site-nav { flex: 1 1 100%; width: 100%; overflow: visible; -webkit-mask-image: none; mask-image: none; }
+  .site-nav ul { display: grid; grid-template-columns: repeat(4, auto); justify-content: space-between; gap: 0 var(--space-3, 0.75rem); padding-right: 0; white-space: nowrap; }
+  .site-nav a { padding: var(--space-2, 0.5rem) 0; }
+}
+@media (max-width: 21rem) { .site-nav ul { grid-template-columns: repeat(3, auto); } }
