@@ -493,6 +493,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html"
   },
   {
+    "id": "2026-02-09-mozambique-lng-full-restart",
+    "title": "Mozambique LNG Restarts After Five Years. The Security Bargain Matters More Than the Gas Price",
+    "date": "2026-02-09",
+    "dateDisplay": "9 February 2026",
+    "year": "2026",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2026-02-09-mozambique-lng-full-restart.html"
+  },
+  {
     "id": "2026-01-26-india-discoms-first-profit",
     "title": "India's Distribution Companies Turn a Profit: Real Progress, Thin Margin",
     "date": "2026-01-26",
@@ -601,6 +613,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-11-04-eni-lng-cargo-cancellations.html"
   },
   {
+    "id": "2025-10-27-drc-cobalt-quotas-replace-ban",
+    "title": "Congo's Cobalt Quotas Turn a Price Shock Into a Policy. The Risk Is Pushing Buyers to Substitute",
+    "date": "2025-10-27",
+    "dateDisplay": "27 October 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-10-27-drc-cobalt-quotas-replace-ban.html"
+  },
+  {
     "id": "2025-10-20-india-carbon-market-first-intensity-targets",
     "title": "India's First Binding Emission Targets: An Intensity Market Built for Exporters as Much as for the Climate",
     "date": "2025-10-20",
@@ -673,6 +697,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-09-15-renewables-share-electricity-generation.html"
   },
   {
+    "id": "2025-09-15-gerd-inauguration-power-and-the-nile",
+    "title": "The Grand Ethiopian Renaissance Dam Is Finished. Ethiopia's Problem Now Is Getting Its Power to People and Markets",
+    "date": "2025-09-15",
+    "dateDisplay": "15 September 2025",
+    "year": "2025",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-09-15-gerd-inauguration-power-and-the-nile.html"
+  },
+  {
     "id": "2025-09-15-fy25-generation-mix",
     "title": "Reading FY2025’s Generation Mix: Hydro, Nuclear, and Coal Shares",
     "date": "2025-09-15",
@@ -695,6 +731,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2025-09-15-european-electricity-flexibility-gap.html"
+  },
+  {
+    "id": "2025-09-01-africa-solar-imports-surge",
+    "title": "Africa's Solar Import Surge Is Happening Behind the Meter, and Utilities Are Not Ready for It",
+    "date": "2025-09-01",
+    "dateDisplay": "1 September 2025",
+    "year": "2025",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-09-01-africa-solar-imports-surge.html"
   },
   {
     "id": "2025-08-20-igcep-2025-35-revision",
@@ -841,6 +889,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-06-16-coal-trade-record-then-retreat.html"
   },
   {
+    "id": "2025-04-28-greater-tortue-first-lng-cargo",
+    "title": "Greater Tortue's First Cargo Makes Senegal and Mauritania LNG Exporters. The Domestic Gas Promise Is the Real Test",
+    "date": "2025-04-28",
+    "dateDisplay": "28 April 2025",
+    "year": "2025",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-04-28-greater-tortue-first-lng-cargo.html"
+  },
+  {
     "id": "2025-04-07-india-coal-one-billion-tonnes",
     "title": "One Billion Tonnes: India's Coal Milestone Is a Security Achievement and a Planning Warning",
     "date": "2025-04-07",
@@ -865,6 +925,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-02-24-china-document-136-renewables-market-pricing.html"
   },
   {
+    "id": "2025-02-03-mission-300-dar-es-salaam-compacts",
+    "title": "Mission 300 Has the Money and the Declaration. Its Weak Point Is the Utilities That Must Deliver It",
+    "date": "2025-02-03",
+    "dateDisplay": "3 February 2025",
+    "year": "2025",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-02-03-mission-300-dar-es-salaam-compacts.html"
+  },
+  {
     "id": "2025-02-03-china-lng-2024-pipeline-squeeze",
     "title": "China's LNG Recovery Stalls Short of the Record as Pipelines and Power Change the Gas Equation",
     "date": "2025-02-03",
@@ -875,6 +947,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2025-02-03-china-lng-2024-pipeline-squeeze.html"
+  },
+  {
+    "id": "2025-01-13-south-africa-era-act-market-opens",
+    "title": "South Africa's Electricity Market Law Is Now in Force. The Hard Part Is the Grid and the Code",
+    "date": "2025-01-13",
+    "dateDisplay": "13 January 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2025-01-13-south-africa-era-act-market-opens.html"
   },
   {
     "id": "2024-12-16-us-lng-exports-2024-year-end",
@@ -1021,6 +1105,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-09-30-imf-eff-energy-conditionality.html"
   },
   {
+    "id": "2024-09-23-dangote-petrol-pricing-test",
+    "title": "Dangote's First Petrol Exposes the Price Nigeria Has Not Yet Agreed On",
+    "date": "2024-09-23",
+    "dateDisplay": "23 September 2024",
+    "year": "2024",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2024-09-23-dangote-petrol-pricing-test.html"
+  },
+  {
     "id": "2024-09-18-utility-scale-solar-after-qasp",
     "title": "Utility-Scale Solar after Quaid-e-Azam: Parks, Pipelines, and Empty Auctions",
     "date": "2024-09-18",
@@ -1165,6 +1261,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html"
   },
   {
+    "id": "2024-07-08-south-africa-100-days-without-load-shedding",
+    "title": "South Africa's 100 Days Without Load-Shedding Are a Maintenance Dividend, Not Yet a Secure System",
+    "date": "2024-07-08",
+    "dateDisplay": "8 July 2024",
+    "year": "2024",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2024-07-08-south-africa-100-days-without-load-shedding.html"
+  },
+  {
     "id": "2024-06-24-india-offshore-wind-vgf-first-gigawatt",
     "title": "India's Offshore Wind Subsidy Buys One Gigawatt and a Price Signal, Not Yet a Market",
     "date": "2024-06-24",
@@ -1199,6 +1307,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html"
+  },
+  {
+    "id": "2024-04-15-nigeria-band-a-tariff-reset",
+    "title": "Nigeria's Band A Tariff Reset Moves Subsidy Off the Budget but Puts Service Quality on Trial",
+    "date": "2024-04-15",
+    "dateDisplay": "15 April 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "africa",
+    "regionLabel": "Africa",
+    "href": "articles/2024-04-15-nigeria-band-a-tariff-reset.html"
   },
   {
     "id": "2024-03-11-india-pm-surya-ghar-rooftop-solar",
