@@ -1944,3 +1944,11 @@ a:focus-visible {
   .site-nav a { padding: var(--space-2, 0.5rem) 0; }
 }
 @media (max-width: 21rem) { .site-nav ul { grid-template-columns: repeat(3, auto); } }
+
+/* Article lead images */
+.article__figure { margin: var(--space-4, 1rem) 0 var(--space-5, 1.5rem); }
+.article__figure img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; background: #e9e6df; }
+.article__figure figcaption { margin-top: 0.5rem; font-size: 0.8125rem; line-height: 1.45; color: var(--tei-muted, #5b6470); }
+.article__credit { display: block; margin-top: 0.15rem; font-size: 0.75rem; }
+.article__credit a { color: inherit; }
+.card__media img, .lead__media img { object-fit: cover; }

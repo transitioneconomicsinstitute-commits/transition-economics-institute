@@ -13,7 +13,9 @@
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
   function desk(item) { var d = item.desk || item.region; if (d === "pakistan") d = "global"; return LABEL[d] ? d : "other-markets"; }
   function deskLink(d) { return '<a class="kicker" href="research.html?desk=' + d + '">' + esc(LABEL[d]) + '</a>'; }
-  function img(d, w, alt) {
+  function img(d, w, alt, it) {
+    var P = it && (window.TEI_IMAGES || {})[it.href];
+    if (P) return '<img src="' + P.b + '-800.webp" srcset="' + P.b + '-800.webp 800w, ' + P.b + '-1600.webp 1600w" sizes="' + w + '" width="' + P.w + '" height="' + P.h + '" alt="' + esc(alt) + '" loading="lazy" decoding="async">';
     var b = "assets/desks/" + d;
     return '<picture><source type="image/webp" srcset="' + b + '-640.webp 640w, ' + b + '-1024.webp 1024w" sizes="' + w + '">' +
       '<img src="' + b + '-1024.jpg" srcset="' + b + '-640.jpg 640w, ' + b + '-1024.jpg 1024w" sizes="' + w + '" width="1024" height="576" alt="' + esc(alt) + '" loading="lazy" decoding="async"></picture>';
@@ -22,7 +24,7 @@
   if (data.length) {
     var lead = data[0], d0 = desk(lead);
     set("lead-story",
-      '<a class="lead__media" href="' + esc(lead.href) + '" tabindex="-1" aria-hidden="true">' + img(d0, "(min-width: 64rem) 720px, 100vw", "").replace('loading="lazy"', 'loading="eager" fetchpriority="high"') + '</a>' +
+      '<a class="lead__media" href="' + esc(lead.href) + '" tabindex="-1" aria-hidden="true">' + img(d0, "(min-width: 64rem) 720px, 100vw", "", lead).replace('loading="lazy"', 'loading="eager" fetchpriority="high"') + '</a>' +
       '<div class="lead__body">' + deskLink(d0) +
       '<h2 class="lead__title"><a href="' + esc(lead.href) + '">' + esc(lead.title) + '</a></h2>' +
       '<p class="meta"><time datetime="' + esc(lead.date) + '">' + esc(lead.dateDisplay) + '</time></p></div>');
@@ -40,7 +42,7 @@
     pool.forEach(function (it) { if (cards.length < target && !used[it.href]) { used[it.href] = 1; cards.push([desk(it), it]); } });
     set("desk-cards", cards.map(function (c) {
       var it = c[1];
-      return '<li class="card"><a class="card__media" href="' + esc(it.href) + '" tabindex="-1" aria-hidden="true">' + img(c[0], "(min-width: 64rem) 360px, (min-width: 40rem) 50vw, 100vw", "") + '</a>' +
+      return '<li class="card"><a class="card__media" href="' + esc(it.href) + '" tabindex="-1" aria-hidden="true">' + img(c[0], "(min-width: 64rem) 360px, (min-width: 40rem) 50vw, 100vw", "", it) + '</a>' +
         deskLink(c[0]) + '<h3 class="card__title"><a href="' + esc(it.href) + '">' + esc(it.title) + '</a></h3>' +
         '<p class="meta"><time datetime="' + esc(it.date) + '">' + esc(it.dateDisplay) + '</time></p></li>';
     }).join(""));

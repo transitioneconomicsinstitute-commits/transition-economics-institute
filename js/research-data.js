@@ -1190,6 +1190,28 @@ window.TEI_RESEARCH = [
     "countries": []
   },
   {
+    "id": "2025-09-12-russia-energy-exports-pivot-asia-infrastructure-limits",
+    "title": "Russia's Pivot to Asia Worked for Oil Because Oil Floats. Gas and Coal Are Stuck on Pipes and Rails",
+    "date": "2025-09-12",
+    "dateDisplay": "12 September 2025",
+    "year": "2025",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "RU",
+      "CN",
+      "IN",
+      "TR",
+      "KR",
+      "US",
+      "DE",
+      "NL"
+    ],
+    "href": "articles/2025-09-12-russia-energy-exports-pivot-asia-infrastructure-limits.html"
+  },
+  {
     "id": "2025-09-08-nev-policy-levy-electric-two-wheelers",
     "title": "Pakistan's EV Levy Funds the Right Vehicles. Two-Wheelers, Not Cars, Are Where the Oil Bill Is Won",
     "date": "2025-09-08",
@@ -1265,6 +1287,28 @@ window.TEI_RESEARCH = [
       "SA",
       "CN"
     ]
+  },
+  {
+    "id": "2025-08-12-global-nuclear-fleet-concentration-five-countries",
+    "title": "Five Countries Hold 71 Per Cent of the World's Nuclear Capacity. The Next Decade Will Be Decided by Two of Them",
+    "date": "2025-08-12",
+    "dateDisplay": "12 August 2025",
+    "year": "2025",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "US",
+      "FR",
+      "CN",
+      "RU",
+      "KR",
+      "JP",
+      "AE",
+      "CZ"
+    ],
+    "href": "articles/2025-08-12-global-nuclear-fleet-concentration-five-countries.html"
   },
   {
     "id": "2025-07-28-china-yarlung-tsangpo-hydropower-cascade",
@@ -1446,6 +1490,28 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2025-05-16-world-oil-demand-growth-tariffs-supply-surplus",
+    "title": "Tariffs Have Made a Weak Oil Demand Outlook Weaker. A Third Straight Year Below 1 Million Barrels Is Now the Base Case",
+    "date": "2025-05-16",
+    "dateDisplay": "16 May 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "US",
+      "CN",
+      "IN",
+      "CA",
+      "GY",
+      "BR",
+      "SA",
+      "RU"
+    ],
+    "href": "articles/2025-05-16-world-oil-demand-growth-tariffs-supply-surplus.html"
+  },
+  {
     "id": "2025-04-28-greater-tortue-first-lng-cargo",
     "title": "Greater Tortue's First Cargo Makes Senegal and Mauritania LNG Exporters. The Domestic Gas Promise Is the Real Test",
     "date": "2025-04-28",
@@ -1563,6 +1629,30 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2025-01-23-brent-narrow-range-2024-opec-cuts-diminishing-returns",
+    "title": "Brent's Narrowest Year in Two Decades Was a Standoff Between OPEC+ Restraint and American Barrels",
+    "date": "2025-01-23",
+    "dateDisplay": "23 January 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "US",
+      "CA",
+      "GY",
+      "BR",
+      "SA",
+      "RU",
+      "CN",
+      "IN",
+      "IL",
+      "IR"
+    ],
+    "href": "articles/2025-01-23-brent-narrow-range-2024-opec-cuts-diminishing-returns.html"
+  },
+  {
     "id": "2025-01-13-south-africa-era-act-market-opens",
     "title": "South Africa's Electricity Market Law Is Now in Force. The Hard Part Is the Grid and the Code",
     "date": "2025-01-13",
@@ -1591,6 +1681,24 @@ window.TEI_RESEARCH = [
     "countries": [
       "US"
     ]
+  },
+  {
+    "id": "2025-01-06-argentina-vaca-muerta-records-lng-import-reversal",
+    "title": "Argentina Has Stopped Needing Winter LNG Cargoes. Becoming an LNG Exporter Is a Harder, Slower Step",
+    "date": "2025-01-06",
+    "dateDisplay": "6 January 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "AR",
+      "US",
+      "BR",
+      "CL"
+    ],
+    "href": "articles/2025-01-06-argentina-vaca-muerta-records-lng-import-reversal.html"
   },
   {
     "id": "2024-12-23-dunkelflaute-price-spike-and-nordic-backlash",
@@ -1702,6 +1810,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-11-30-china-gasoline-diesel-decline-nevs-lng-trucks",
+    "title": "China's Road Fuel Demand Has Turned Down Early. Petrochemicals, Not Cars and Trucks, Now Carry Its Oil Growth",
+    "date": "2024-11-30",
+    "dateDisplay": "30 November 2024",
+    "year": "2024",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "china",
+    "regionLabel": "China",
+    "countries": [
+      "CN"
+    ],
+    "href": "articles/2024-11-30-china-gasoline-diesel-decline-nevs-lng-trucks.html"
+  },
+  {
     "id": "2024-11-20-india-200-gw-renewables-500-gw-gap",
     "title": "India Passes 200 GW of Renewables: Halfway to 2030 in Capacity, Much Less in Delivery",
     "date": "2024-11-20",
@@ -1777,6 +1900,23 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-11-09-helene-milton-florida-fuel-supply-port-tampa.html"
   },
   {
+    "id": "2024-10-30-mexico-first-lng-export-altamira-us-gas",
+    "title": "Mexico Now Exports LNG Made From Texas Gas. That Makes It a Second Gate for US Supply, Not a New Producer",
+    "date": "2024-10-30",
+    "dateDisplay": "30 October 2024",
+    "year": "2024",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "MX",
+      "US",
+      "CA"
+    ],
+    "href": "articles/2024-10-30-mexico-first-lng-export-altamira-us-gas.html"
+  },
+  {
     "id": "2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang",
     "title": "WEO 2024: A Buyers' Market for Fuels Is Coming. Importers Should Use It Wisely",
     "date": "2024-10-21",
@@ -1805,6 +1945,27 @@ window.TEI_RESEARCH = [
       "US"
     ],
     "href": "articles/2024-10-20-data-centres-nuclear-ppas-texas-large-loads.html"
+  },
+  {
+    "id": "2024-10-16-global-refinery-margins-seasonal-lows-new-capacity",
+    "title": "Refining's Golden Years Are Over. September's Margin Slump Shows New Capacity Meeting Flat Fuel Demand",
+    "date": "2024-10-16",
+    "dateDisplay": "16 October 2024",
+    "year": "2024",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "US",
+      "KW",
+      "OM",
+      "NG",
+      "CN",
+      "NL",
+      "SG"
+    ],
+    "href": "articles/2024-10-16-global-refinery-margins-seasonal-lows-new-capacity.html"
   },
   {
     "id": "2024-10-15-thar-mine-expansion-finance",
@@ -1848,6 +2009,25 @@ window.TEI_RESEARCH = [
     "countries": [
       "US"
     ]
+  },
+  {
+    "id": "2024-10-11-china-domestic-gas-shale-deeper-formations-import-share",
+    "title": "China Is Drilling Deeper to Hold Its Import Share Down. Shale Will Not Free It From LNG",
+    "date": "2024-10-11",
+    "dateDisplay": "11 October 2024",
+    "year": "2024",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "china",
+    "regionLabel": "China",
+    "countries": [
+      "CN",
+      "AU",
+      "QA",
+      "RU",
+      "MY"
+    ],
+    "href": "articles/2024-10-11-china-domestic-gas-shale-deeper-formations-import-share.html"
   },
   {
     "id": "2024-10-08-jhimpir-gharo-wind-curtailment",
@@ -2044,6 +2224,23 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-08-24-trans-mountain-expansion-canada-pacific-exports",
+    "title": "Trans Mountain Gives Canadian Oil a Pacific Door. The Bill and the Buyers Will Decide Whether It Was Worth It",
+    "date": "2024-08-24",
+    "dateDisplay": "24 August 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "CA",
+      "US",
+      "CN"
+    ],
+    "href": "articles/2024-08-24-trans-mountain-expansion-canada-pacific-exports.html"
+  },
+  {
     "id": "2024-08-22-rooftop-solar-net-metering-boom",
     "title": "Rooftop Solar’s Boom Is a Grid Pricing Problem in Disguise",
     "date": "2024-08-22",
@@ -2226,6 +2423,25 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-06-28-panama-canal-drought-lpg-trade-routes",
+    "title": "The Panama Canal Is Reopening Its Slots. The Drought Has Already Rewired American Gas Liquids Trade",
+    "date": "2024-06-28",
+    "dateDisplay": "28 June 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "PA",
+      "US",
+      "CN",
+      "JP",
+      "KR"
+    ],
+    "href": "articles/2024-06-28-panama-canal-drought-lpg-trade-routes.html"
+  },
+  {
     "id": "2024-06-27-miso-spp-wind-curtailment-transmission",
     "title": "The Midwest Is Throwing Away Wind Because It Cannot Move It. That Is a Transmission Bill, Not a Wind Problem",
     "date": "2024-06-27",
@@ -2314,6 +2530,50 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-05-22-guyana-stabroek-oil-growth-arbitration",
+    "title": "Guyana Is Adding Oil Faster Than Almost Anyone Outside OPEC. Its Biggest Risk Is a Boardroom, Not a Reservoir",
+    "date": "2024-05-22",
+    "dateDisplay": "22 May 2024",
+    "year": "2024",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "GY",
+      "US",
+      "CN",
+      "VE",
+      "BR",
+      "CA"
+    ],
+    "href": "articles/2024-05-22-guyana-stabroek-oil-growth-arbitration.html"
+  },
+  {
+    "id": "2024-05-14-russia-diesel-exports-rerouted-price-cap",
+    "title": "Russian Diesel Found New Buyers Within a Year. The Product Price Cap Changed the Route, Not the Volume",
+    "date": "2024-05-14",
+    "dateDisplay": "14 May 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "RU",
+      "TR",
+      "BR",
+      "SA",
+      "LY",
+      "TN",
+      "MA",
+      "GH",
+      "FR",
+      "DE"
+    ],
+    "href": "articles/2024-05-14-russia-diesel-exports-rerouted-price-cap.html"
+  },
+  {
     "id": "2024-05-13-us-weather-risk-wind-hydro-2023-decline",
     "title": "Wind and Water Both Fell Short in 2023. US Planning Still Treats Renewable Output as an Average",
     "date": "2024-05-13",
@@ -2357,6 +2617,29 @@ window.TEI_RESEARCH = [
       "US"
     ],
     "href": "articles/2024-04-23-ercot-eclipse-solar-gas-backstop.html"
+  },
+  {
+    "id": "2024-04-16-china-record-crude-imports-refining-2023",
+    "title": "China's Record Crude Imports Were a Refining Story. The Sanctioned Barrels Inside Them Are a Policy Story",
+    "date": "2024-04-16",
+    "dateDisplay": "16 April 2024",
+    "year": "2024",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "china",
+    "regionLabel": "China",
+    "countries": [
+      "CN",
+      "RU",
+      "SA",
+      "IQ",
+      "IR",
+      "MY",
+      "BR",
+      "US",
+      "NO"
+    ],
+    "href": "articles/2024-04-16-china-record-crude-imports-refining-2023.html"
   },
   {
     "id": "2024-04-15-nigeria-band-a-tariff-reset",
@@ -2456,6 +2739,24 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-02-26-us-retirements-slow-record-additions-2024.html"
   },
   {
+    "id": "2024-02-09-japan-nuclear-restarts-lng-import-decline",
+    "title": "Japan's Slow Nuclear Return Is Already Cutting LNG Demand. The Contract Book Has Not Caught Up",
+    "date": "2024-02-09",
+    "dateDisplay": "9 February 2024",
+    "year": "2024",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "countries": [
+      "JP",
+      "AU",
+      "QA",
+      "MY"
+    ],
+    "href": "articles/2024-02-09-japan-nuclear-restarts-lng-import-decline.html"
+  },
+  {
     "id": "2024-02-07-henry-hub-cheap-gas-january-cold-record",
     "title": "Cheap Gas Passed Its Cold Test in January. That Is Not the Same as a Comfortable 2024",
     "date": "2024-02-07",
@@ -2484,6 +2785,28 @@ window.TEI_RESEARCH = [
     "countries": [
       "CN"
     ]
+  },
+  {
+    "id": "2024-01-30-russia-coal-exports-four-buyers-sanctions",
+    "title": "Russia's Coal Kept Flowing After the EU Ban. It Now Depends on Four Buyers and a Railway",
+    "date": "2024-01-30",
+    "dateDisplay": "30 January 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "global",
+    "regionLabel": "Global",
+    "countries": [
+      "RU",
+      "CN",
+      "KR",
+      "TR",
+      "IN",
+      "US",
+      "DE",
+      "JP"
+    ],
+    "href": "articles/2024-01-30-russia-coal-exports-four-buyers-sanctions.html"
   },
   {
     "id": "2024-01-17-us-battery-storage-doubling-solar-growth-2024",
