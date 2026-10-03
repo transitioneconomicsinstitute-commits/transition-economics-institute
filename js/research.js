@@ -3,6 +3,8 @@
   var list = document.getElementById("research-results");
   var statusEl = document.getElementById("filter-status");
   if (!list) return;
+  var TEI_DESKS = {"pakistan": "Pakistan Desk", "united-states": "United States Desk", "china": "China Desk", "india": "India Desk", "middle-east": "Middle East Desk", "europe": "Europe Desk", "africa": "Africa Desk", "global": "Global Desk", "other-markets": "Other Markets"};
+  function deskLabel(item) { return TEI_DESKS[item.region] || item.regionLabel; }
 
   function checkedValues(name) {
     return Array.prototype.map
@@ -18,7 +20,7 @@
     } catch (err) {
       return;
     }
-    ["year", "region", "author"].forEach(function (name) {
+    ["year", "region", "desk", "author"].forEach(function (name) {
       var raw = params.getAll(name);
       if (!raw.length) {
         var single = params.get(name);
@@ -34,7 +36,7 @@
             if (part) wanted[part] = true;
           });
       });
-      document.querySelectorAll('input[name="' + name + '"]').forEach(function (input) {
+      document.querySelectorAll('input[name="' + (name === "desk" ? "region" : name) + '"]').forEach(function (input) {
         if (wanted[String(input.value).toLowerCase()]) {
           input.checked = true;
         }
@@ -74,6 +76,10 @@
         li.setAttribute("data-region", item.region);
         li.setAttribute("data-author", item.authorSlug);
 
+        var desk = document.createElement("p");
+        desk.className = "research-card__desk";
+        desk.textContent = deskLabel(item);
+
         var h3 = document.createElement("h3");
         h3.className = "research-card__title";
         var a = document.createElement("a");
@@ -88,14 +94,11 @@
         date.textContent = item.dateDisplay;
         var byline = document.createElement("span");
         byline.className = "research-card__byline";
-        byline.textContent = " · " + item.author;
-        var region = document.createElement("span");
-        region.className = "research-card__region";
-        region.textContent = " · " + item.regionLabel;
+        byline.textContent = " · By " + item.author;
         meta.appendChild(date);
         meta.appendChild(byline);
-        meta.appendChild(region);
 
+        li.appendChild(desk);
         li.appendChild(h3);
         li.appendChild(meta);
         list.appendChild(li);
@@ -105,7 +108,7 @@
     if (statusEl) {
       var bits = [];
       if (years.length) bits.push("year");
-      if (regions.length) bits.push("region");
+      if (regions.length) bits.push("desk");
       if (authors.length) bits.push("author");
       if (data.length === 0) {
         statusEl.textContent = "No articles in the index yet.";

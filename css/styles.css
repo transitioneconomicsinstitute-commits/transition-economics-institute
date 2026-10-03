@@ -1424,3 +1424,25 @@ a:focus-visible {
 .text-link-row a {
   color: var(--tei-teal);
 }
+
+/* Desk-first labels (desks.py) */
+.research-card__desk,
+.article__desk {
+  display: block;
+  margin: 0 0 var(--space-1, 0.25rem);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tei-rust);
+}
+.article__desk { display: inline; margin: 0; font-size: 0.8125rem; }
+.research-card__byline,
+.article__byline { font-size: 0.75rem; color: var(--tei-muted); }
+.research-filters__more { margin-top: var(--space-4); border-top: 1px solid var(--tei-border); padding-top: var(--space-3, 0.75rem); }
+.research-filters__more summary { cursor: pointer; font-weight: 600; font-size: 0.8125rem; color: var(--tei-navy); }
+.research-filters__more fieldset { margin-top: var(--space-3, 0.75rem); }
+.desk-list { list-style: none; margin: var(--space-4) 0 var(--space-6); padding: 0; display: grid; gap: var(--space-3, 0.75rem) var(--space-5); grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); }
+.desk-list li { border-top: 1px solid var(--tei-border); padding-top: var(--space-2); }
+.desk-list a { font-weight: 700; color: var(--tei-navy); }
+.desk-list span { display: block; font-size: 0.875rem; color: var(--tei-muted); line-height: 1.45; }

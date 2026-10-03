@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Research · Transition Economics Institute</title>
-  <meta name="description" content="Research index for Transition Economics Institute. Seventy-one published articles from 2024 onward. Filter by year, region, and author.">
-  <link rel="stylesheet" href="css/styles.css?v=20260930d">
+  <meta name="description" content="Research index for Transition Economics Institute. Research from 2024 onward, organised by desk. Filter by desk and year.">
+  <link rel="stylesheet" href="css/styles.css?v=20261003b">
   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 </head>
@@ -35,42 +35,57 @@
       <p class="label-caps">Research</p>
       <hr class="rule" aria-hidden="true">
       <h1 id="page-title">Research</h1>
-      <p class="lede">Seventy-one published articles from 2024 onward. Filter by year, region, and author.</p>
-      <p>Coverage spans Pakistan, the United States, global energy markets, and Middle East energy developments already in the live archive.</p>
+      <p class="lede">Research from 2024 onward, organised by desk. Filter by desk and year.</p>
+      <h2 id="desks-heading">Desks</h2>
+      <ul class="desk-list" aria-labelledby="desks-heading">
+        <li><a href="research.html?region=pakistan">Pakistan Desk</a><span>Power-sector reform, circular debt, tariffs, gas allocation and generation planning.</span></li>
+        <li><a href="research.html?region=united-states">United States Desk</a><span>Wholesale markets, large loads, interconnection, LNG exports and federal and state regulation.</span></li>
+        <li><a href="research.html?region=china">China Desk</a><span>Power demand, coal and renewables build, grid investment, LNG buying and clean-technology exports.</span></li>
+        <li><a href="research.html?region=india">India Desk</a><span>Peak demand, coal supply, renewable auctions, transmission, distribution finance and fuel imports.</span></li>
+        <li><a href="research.html?region=middle-east">Middle East Desk</a><span>Gulf supply, OPEC+ policy, Hormuz and Red Sea shipping, and regional gas and power.</span></li>
+        <li><a href="research.html?region=europe">Europe Desk</a><span>Gas storage and LNG, power prices, market design, carbon pricing and the renewables build.</span></li>
+        <li><a href="research.html?region=africa">Africa Desk</a><span>Electricity access, utility reform, South African load-shedding, gas projects and mini-grids.</span></li>
+        <li><a href="research.html?region=global">Global Desk</a><span>Oil and gas balances, LNG trade, coal, critical minerals and international energy finance.</span></li>
+        <li><a href="research.html?region=other-markets">Other Markets</a><span>Occasional pieces on Latin America, Southeast Asia, Australia, Central Asia and elsewhere.</span></li>
+      </ul>
 
       <div class="research-shell">
         <aside class="research-filters" aria-label="Filters" aria-describedby="filter-status">
           <h2>Filters</h2>
           <p id="filter-status" class="research-filters__status" role="status" aria-live="polite" aria-atomic="true">Loading index…</p>
           <fieldset>
+            <legend>Desk</legend>
+            <label><input type="checkbox" name="region" value="pakistan"> Pakistan Desk</label>
+            <label><input type="checkbox" name="region" value="united-states"> United States Desk</label>
+            <label><input type="checkbox" name="region" value="china"> China Desk</label>
+            <label><input type="checkbox" name="region" value="india"> India Desk</label>
+            <label><input type="checkbox" name="region" value="middle-east"> Middle East Desk</label>
+            <label><input type="checkbox" name="region" value="europe"> Europe Desk</label>
+            <label><input type="checkbox" name="region" value="africa"> Africa Desk</label>
+            <label><input type="checkbox" name="region" value="global"> Global Desk</label>
+            <label><input type="checkbox" name="region" value="other-markets"> Other Markets</label>
+          </fieldset>
+          <fieldset>
             <legend>Year</legend>
             <label><input type="checkbox" name="year" value="2024"> 2024</label>
             <label><input type="checkbox" name="year" value="2025"> 2025</label>
             <label><input type="checkbox" name="year" value="2026"> 2026</label>
           </fieldset>
-          <fieldset>
-            <legend>Region</legend>
-            <label><input type="checkbox" name="region" value="pakistan"> Pakistan</label>
-            <label><input type="checkbox" name="region" value="united-states"> United States</label>
-            <label><input type="checkbox" name="region" value="global"> Global</label>
-            <label><input type="checkbox" name="region" value="middle-east"> Middle East</label>
-          </fieldset>
-          <fieldset class="research-filters__authors">
-            <legend>Author</legend>
-            <label><input type="checkbox" name="author" value="bilal-mohyuddin"> Bilal Mohyuddin</label>
-            <label><input type="checkbox" name="author" value="claire-dunne"> Claire Dunne</label>
-            <label><input type="checkbox" name="author" value="dr-ali-ahmad"> Dr. Ali Ahmad</label>
-            <label><input type="checkbox" name="author" value="hassan-raza"> Hassan Raza</label>
-            <label><input type="checkbox" name="author" value="ingrid-larsen"> Ingrid Larsen</label>
-            <label><input type="checkbox" name="author" value="jamshed-khan"> Jamshed Khan</label>
-            <label><input type="checkbox" name="author" value="leila-nasser"> Leila Nasser</label>
-            <label><input type="checkbox" name="author" value="m-ali-janjua"> M. Ali Janjua</label>
-            <label><input type="checkbox" name="author" value="marcus-hale"> Marcus Hale</label>
-            <label><input type="checkbox" name="author" value="nadia-qureshi"> Nadia Qureshi</label>
-            <label><input type="checkbox" name="author" value="ruth-okonkwo"> Ruth Okonkwo</label>
-            <label><input type="checkbox" name="author" value="sana-iqbal"> Sana Iqbal</label>
-            <label><input type="checkbox" name="author" value="wei-chen"> Wei Chen</label>
-          </fieldset>
+          <details class="research-filters__more">
+            <summary>More filters</summary>
+            <fieldset class="research-filters__authors">
+              <legend>Byline</legend>
+              <label><input type="checkbox" name="author" value="bilal-mohyuddin"> Bilal Mohyuddin</label>
+              <label><input type="checkbox" name="author" value="claire-dunne"> Claire Dunne</label>
+              <label><input type="checkbox" name="author" value="dr-ali-ahmad"> Dr. Ali Ahmad</label>
+              <label><input type="checkbox" name="author" value="hassan-raza"> Hassan Raza</label>
+              <label><input type="checkbox" name="author" value="jamshed-khan"> Jamshed Khan</label>
+              <label><input type="checkbox" name="author" value="m-ali-janjua"> M. Ali Janjua</label>
+              <label><input type="checkbox" name="author" value="marcus-hale"> Marcus Hale</label>
+              <label><input type="checkbox" name="author" value="nadia-qureshi"> Nadia Qureshi</label>
+              <label><input type="checkbox" name="author" value="sana-iqbal"> Sana Iqbal</label>
+            </fieldset>
+          </details>
         </aside>
 
         <div>
@@ -117,7 +132,7 @@
     </div>
     <p class="site-footer__note">Transition Economics Institute. Operating since 2024. Making the transition add up.</p>
   </footer>
-  <script src="js/research-data.js?v=20260930d"></script>
-  <script src="js/research.js?v=20260930d"></script>
+  <script src="js/research-data.js?v=20261003b"></script>
+  <script src="js/research.js?v=20261003b"></script>
 </body>
 </html>
