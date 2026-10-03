@@ -1,4 +1,4 @@
-/* Home newsroom: renders lead, latest, desks and news from data files.
+/* Home newsroom: renders lead, latest, regional analysis and news from data files.
    Static markup in index.html is a snapshot; this keeps it current. */
 (function () {
   var DESKS = [

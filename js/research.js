@@ -3,7 +3,7 @@
   var list = document.getElementById("research-results");
   var statusEl = document.getElementById("filter-status");
   if (!list) return;
-  var TEI_DESKS = {"pakistan": "Pakistan Desk", "united-states": "United States Desk", "china": "China Desk", "india": "India Desk", "middle-east": "Middle East Desk", "europe": "Europe Desk", "africa": "Africa Desk", "global": "Global Desk", "other-markets": "Other Markets"};
+  var TEI_DESKS = {"pakistan": "Pakistan", "united-states": "United States", "china": "China", "india": "India", "middle-east": "Middle East", "europe": "Europe", "africa": "Africa", "global": "Global", "other-markets": "Other markets"};
   function deskLabel(item) { return TEI_DESKS[item.region] || item.regionLabel; }
 
   function checkedValues(name) {
@@ -94,7 +94,7 @@
         date.textContent = item.dateDisplay;
         var byline = document.createElement("span");
         byline.className = "research-card__byline";
-        byline.textContent = " · By " + item.author;
+        byline.textContent = " · " + item.author;
         meta.appendChild(date);
         meta.appendChild(byline);
 
@@ -108,7 +108,7 @@
     if (statusEl) {
       var bits = [];
       if (years.length) bits.push("year");
-      if (regions.length) bits.push("desk");
+      if (regions.length) bits.push("region");
       if (authors.length) bits.push("author");
       if (data.length === 0) {
         statusEl.textContent = "No articles in the index yet.";
