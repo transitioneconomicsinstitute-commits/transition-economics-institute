@@ -469,6 +469,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html"
   },
   {
+    "id": "2026-04-06-lng-shortfall-qatar-suspension-gas-allocation",
+    "title": "Pakistan's LNG Cliff Edge: Gas Allocation After Qatar Supplies Stopped",
+    "date": "2026-04-06",
+    "dateDisplay": "6 April 2026",
+    "year": "2026",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-04-06-lng-shortfall-qatar-suspension-gas-allocation.html"
+  },
+  {
     "id": "2026-03-23-japan-korea-hormuz-oil-reserves",
     "title": "Japan and Korea Can Ride Out a Hormuz Closure on Reserves for Months. Their Exposure Is Price, Not Barrels",
     "date": "2026-03-23",
@@ -491,6 +503,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html"
+  },
+  {
+    "id": "2026-03-16-hormuz-austerity-fuel-demand",
+    "title": "Pakistan's Hormuz Austerity Saves Little Fuel. The Shock Shows Oil Dependence Is a Transport Problem",
+    "date": "2026-03-16",
+    "dateDisplay": "16 March 2026",
+    "year": "2026",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-03-16-hormuz-austerity-fuel-demand.html"
   },
   {
     "id": "2026-03-10-hormuz-oil-transit-collapse-iea",
@@ -769,6 +793,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-10-13-colocated-large-loads-and-tariff-design.html"
   },
   {
+    "id": "2025-10-06-trump-oil-reserves-claim-reality",
+    "title": "Pakistan's \"Massive Oil Reserves\" Are a Diplomatic Asset, Not an Energy Plan",
+    "date": "2025-10-06",
+    "dateDisplay": "6 October 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2025-10-06-trump-oil-reserves-claim-reality.html"
+  },
+  {
     "id": "2025-10-06-china-2035-ndc-7-to-10-per-cent",
     "title": "China's 2035 Pledge: A Modest Headline Built on an Ambitious Capacity Number",
     "date": "2025-10-06",
@@ -839,6 +875,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2025-09-15-european-electricity-flexibility-gap.html"
+  },
+  {
+    "id": "2025-09-08-nev-policy-levy-electric-two-wheelers",
+    "title": "Pakistan's EV Levy Funds the Right Vehicles. Two-Wheelers, Not Cars, Are Where the Oil Bill Is Won",
+    "date": "2025-09-08",
+    "dateDisplay": "8 September 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2025-09-08-nev-policy-levy-electric-two-wheelers.html"
   },
   {
     "id": "2025-09-01-africa-solar-imports-surge",
@@ -959,6 +1007,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html"
+  },
+  {
+    "id": "2025-07-07-climate-support-levy-fuel",
+    "title": "Pakistan's Climate Support Levy Is Small, Regressive in Form and Still Worth Keeping",
+    "date": "2025-07-07",
+    "dateDisplay": "7 July 2025",
+    "year": "2025",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2025-07-07-climate-support-levy-fuel.html"
   },
   {
     "id": "2025-06-30-china-may-solar-rush-93gw",
@@ -1535,6 +1595,18 @@ window.TEI_RESEARCH = [
     "region": "africa",
     "regionLabel": "Africa",
     "href": "articles/2024-04-15-nigeria-band-a-tariff-reset.html"
+  },
+  {
+    "id": "2024-03-11-iran-pakistan-pipeline-80km-gambit",
+    "title": "The 80 Kilometre Pipeline: Pakistan's Iran Gas Gambit Is About Penalties, Not Gas",
+    "date": "2024-03-11",
+    "dateDisplay": "11 March 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2024-03-11-iran-pakistan-pipeline-80km-gambit.html"
   },
   {
     "id": "2024-03-11-india-pm-surya-ghar-rooftop-solar",
