@@ -181,6 +181,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-14-oil-geopolitics-middle-east-tensions.html"
   },
   {
+    "id": "2026-09-14-germany-first-capacity-auction-oversubscribed",
+    "title": "Germany's First Capacity Auction Is Oversubscribed. Now It Must Avoid Paying for the Wrong Plants",
+    "date": "2026-09-14",
+    "dateDisplay": "14 September 2026",
+    "year": "2026",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2026-09-14-germany-first-capacity-auction-oversubscribed.html"
+  },
+  {
     "id": "2026-09-12-hybrids-bess-wheeling-mandate",
     "title": "Hybrids and Mandatory BESS: How IGCEP and Wheeling Finally Meet Storage",
     "date": "2026-09-12",
@@ -349,6 +361,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-07-28-disco-spv-fesco-gepco-iesco.html"
   },
   {
+    "id": "2026-07-20-eu-gas-storage-refill-under-hormuz-stress",
+    "title": "Europe Can Refill Its Gas Storage Without Panic. The 80 Per Cent Flexibility Is There to Be Used",
+    "date": "2026-07-20",
+    "dateDisplay": "20 July 2026",
+    "year": "2026",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2026-07-20-eu-gas-storage-refill-under-hormuz-stress.html"
+  },
+  {
     "id": "2026-07-13-shipping-cape-route-cumulative-costs",
     "title": "Cape routing as the new normal: cumulative costs of avoided Red Sea passages",
     "date": "2026-07-13",
@@ -481,6 +505,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-03-10-hormuz-crude-transit-documented-flows.html"
   },
   {
+    "id": "2026-02-16-eu-russian-gas-ban-regulation",
+    "title": "The EU's Russian Gas Ban Is Now Law. The Cost Falls on a Few Landlocked Buyers and on Storage Policy",
+    "date": "2026-02-16",
+    "dateDisplay": "16 February 2026",
+    "year": "2026",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2026-02-16-eu-russian-gas-ban-regulation.html"
+  },
+  {
     "id": "2026-02-16-china-2025-wind-solar-overtake-thermal",
     "title": "China's 2025 Power Data: Wind and Solar Pass Thermal Capacity, and the Curtailment Bill Arrives",
     "date": "2026-02-16",
@@ -527,6 +563,18 @@ window.TEI_RESEARCH = [
     "region": "india",
     "regionLabel": "India",
     "href": "articles/2026-01-19-india-record-2025-solar-additions.html"
+  },
+  {
+    "id": "2026-01-12-cbam-definitive-phase-begins",
+    "title": "CBAM's Definitive Phase Begins. The First Real Test Is Data, Not the Carbon Price",
+    "date": "2026-01-12",
+    "dateDisplay": "12 January 2026",
+    "year": "2026",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2026-01-12-cbam-definitive-phase-begins.html"
   },
   {
     "id": "2025-12-29-india-shanti-act-nuclear-opening",
@@ -587,6 +635,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2025-11-17-federal-energy-dominance-and-gas-markets.html"
+  },
+  {
+    "id": "2025-11-17-eu-2040-target-90-percent-flexibilities",
+    "title": "The EU's 90 Per Cent 2040 Target Survives, but the Flexibilities Will Decide What It Means",
+    "date": "2025-11-17",
+    "dateDisplay": "17 November 2025",
+    "year": "2025",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2025-11-17-eu-2040-target-90-percent-flexibilities.html"
   },
   {
     "id": "2025-11-17-china-lng-coal-power-dual",
@@ -659,6 +719,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2025-10-13-oil-market-non-opec-supply-surplus-risk.html"
+  },
+  {
+    "id": "2025-10-13-iberian-blackout-factual-report",
+    "title": "The Iberian Blackout Report Points to Voltage Control, Not Renewables as Such. Grid Rules Must Catch Up",
+    "date": "2025-10-13",
+    "dateDisplay": "13 October 2025",
+    "year": "2025",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2025-10-13-iberian-blackout-factual-report.html"
   },
   {
     "id": "2025-10-13-colocated-large-loads-and-tariff-design",
@@ -817,6 +889,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html"
   },
   {
+    "id": "2025-07-14-uk-rejects-zonal-pricing-rema",
+    "title": "Britain Rejects Zonal Pricing. Reformed National Pricing Now Has to Do the Work Zones Would Have Done",
+    "date": "2025-07-14",
+    "dateDisplay": "14 July 2025",
+    "year": "2025",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2025-07-14-uk-rejects-zonal-pricing-rema.html"
+  },
+  {
     "id": "2025-07-14-shipping-chokepoints-energy-security",
     "title": "Shipping chokepoints after eighteen months of Red Sea diversion",
     "date": "2025-07-14",
@@ -913,6 +997,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-04-07-india-coal-one-billion-tonnes.html"
   },
   {
+    "id": "2025-03-03-affordable-energy-action-plan",
+    "title": "Brussels' Affordable Energy Plan Targets the Right Parts of the Bill. Delivery Sits With Member States",
+    "date": "2025-03-03",
+    "dateDisplay": "3 March 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2025-03-03-affordable-energy-action-plan.html"
+  },
+  {
     "id": "2025-02-24-china-document-136-renewables-market-pricing",
     "title": "Document 136 Ends China's Fixed-Price Era for Wind and Solar",
     "date": "2025-02-24",
@@ -959,6 +1055,18 @@ window.TEI_RESEARCH = [
     "region": "africa",
     "regionLabel": "Africa",
     "href": "articles/2025-01-13-south-africa-era-act-market-opens.html"
+  },
+  {
+    "id": "2024-12-23-dunkelflaute-price-spike-and-nordic-backlash",
+    "title": "The December Dunkelflaute Price Spike Is a Warning About Flexibility, Not a Case Against Interconnection",
+    "date": "2024-12-23",
+    "dateDisplay": "23 December 2024",
+    "year": "2024",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2024-12-23-dunkelflaute-price-spike-and-nordic-backlash.html"
   },
   {
     "id": "2024-12-16-us-lng-exports-2024-year-end",
@@ -1283,6 +1391,18 @@ window.TEI_RESEARCH = [
     "region": "india",
     "regionLabel": "India",
     "href": "articles/2024-06-24-india-offshore-wind-vgf-first-gigawatt.html"
+  },
+  {
+    "id": "2024-06-24-eu-electricity-market-design-reform",
+    "title": "Europe's Electricity Market Reform Keeps Marginal Pricing and Bets on Contracts. That Is the Right Trade",
+    "date": "2024-06-24",
+    "dateDisplay": "24 June 2024",
+    "year": "2024",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2024-06-24-eu-electricity-market-design-reform.html"
   },
   {
     "id": "2024-06-10-india-250-gw-peak-thermal-backbone",
