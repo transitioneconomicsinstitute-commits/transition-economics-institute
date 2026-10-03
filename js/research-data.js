@@ -1610,6 +1610,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-12-18-california-abx2-1-wilmington-refinery-closure",
+    "title": "California Wants Refiners to Hold More Inventory Just as One Prepares to Leave. That Is the Fuel Market's Real Problem",
+    "date": "2024-12-18",
+    "dateDisplay": "18 December 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-12-18-california-abx2-1-wilmington-refinery-closure.html"
+  },
+  {
     "id": "2024-12-16-us-lng-exports-2024-year-end",
     "title": "United States LNG in 2024: Still the World Leader, Flat Volumes, Shifting Destinations",
     "date": "2024-12-16",
@@ -1653,6 +1668,22 @@ window.TEI_RESEARCH = [
     "countries": [
       "PK"
     ]
+  },
+  {
+    "id": "2024-12-02-us-gas-storage-winter-2024-25-most-since-2016",
+    "title": "The US Enters Winter With the Most Gas in Storage Since 2016. The Cushion Was Built by Producers Saying No",
+    "date": "2024-12-02",
+    "dateDisplay": "2 December 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US",
+      "CA"
+    ],
+    "href": "articles/2024-12-02-us-gas-storage-winter-2024-25-most-since-2016.html"
   },
   {
     "id": "2024-12-02-cop29-ncqg-climate-finance-energy-investment",
@@ -1731,6 +1762,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-11-09-helene-milton-florida-fuel-supply-port-tampa",
+    "title": "Helene and Milton Showed Florida's Fuel System Is a Port System. Prices Held, Pumps Ran Dry",
+    "date": "2024-11-09",
+    "dateDisplay": "9 November 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-11-09-helene-milton-florida-fuel-supply-port-tampa.html"
+  },
+  {
     "id": "2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang",
     "title": "WEO 2024: A Buyers' Market for Fuels Is Coming. Importers Should Use It Wisely",
     "date": "2024-10-21",
@@ -1744,6 +1790,21 @@ window.TEI_RESEARCH = [
     "countries": [
       "CN"
     ]
+  },
+  {
+    "id": "2024-10-20-data-centres-nuclear-ppas-texas-large-loads",
+    "title": "Three Mile Island, Susquehanna and 26,500 MW of Texas Requests: Data Centers Are Shopping for Firm Power Before the Grid Can Plan for Them",
+    "date": "2024-10-20",
+    "dateDisplay": "20 October 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-10-20-data-centres-nuclear-ppas-texas-large-loads.html"
   },
   {
     "id": "2024-10-15-thar-mine-expansion-finance",
@@ -1802,6 +1863,21 @@ window.TEI_RESEARCH = [
     "countries": [
       "PK"
     ]
+  },
+  {
+    "id": "2024-09-30-us-hydrogen-cofiring-electrolyzers-refinery-demand",
+    "title": "Hydrogen-Ready Gas Turbines Are an Option, Not a Plan. The US Hydrogen Market Is Still a Refinery Market",
+    "date": "2024-09-30",
+    "dateDisplay": "30 September 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-09-30-us-hydrogen-cofiring-electrolyzers-refinery-demand.html"
   },
   {
     "id": "2024-09-30-imf-eff-energy-conditionality",
@@ -1890,6 +1966,21 @@ window.TEI_RESEARCH = [
     "countries": []
   },
   {
+    "id": "2024-09-11-us-retail-power-prices-inflation-rate-cases-wires",
+    "title": "US Power Prices Kept Pace With Inflation for a Decade. The Next Decade's Bill Is Being Written in Rate Cases",
+    "date": "2024-09-11",
+    "dateDisplay": "11 September 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-09-11-us-retail-power-prices-inflation-rate-cases-wires.html"
+  },
+  {
     "id": "2024-09-09-uk-ar6-offshore-wind-recovery",
     "title": "Britain's Record Renewables Auction Rescues Offshore Wind by Accepting Higher Prices. That Was the Right Call",
     "date": "2024-09-09",
@@ -1968,6 +2059,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-08-21-us-capacity-additions-h1-2024-wind-beats-coal",
+    "title": "Solar Took 59% of New US Capacity in the First Half. Coal Is Still the Fuel Plants Are Stockpiling",
+    "date": "2024-08-21",
+    "dateDisplay": "21 August 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-08-21-us-capacity-additions-h1-2024-wind-beats-coal.html"
+  },
+  {
     "id": "2024-08-19-middle-east-supply-hormuz-security",
     "title": "Middle East supply security and the Strait of Hormuz in a diverted Red Sea year",
     "date": "2024-08-19",
@@ -2011,6 +2117,21 @@ window.TEI_RESEARCH = [
     "countries": [
       "US"
     ]
+  },
+  {
+    "id": "2024-08-01-henry-hub-record-low-storage-surplus-summer-burn",
+    "title": "A March Price Below $1.50 and a July Burn Record: The US Gas Market Is Pricing a Surplus That Power Demand Is Eating",
+    "date": "2024-08-01",
+    "dateDisplay": "1 August 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-08-01-henry-hub-record-low-storage-surplus-summer-burn.html"
   },
   {
     "id": "2024-07-25-tariff-rebasing-imf-conditionality",
@@ -2074,6 +2195,22 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-07-12-us-offshore-wind-cancellations-pipeline-reset",
+    "title": "US Offshore Wind Has Shrunk to What Can Be Financed. The Rebid Contracts Are the Real Test",
+    "date": "2024-07-12",
+    "dateDisplay": "12 July 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US",
+      "DK"
+    ],
+    "href": "articles/2024-07-12-us-offshore-wind-cancellations-pipeline-reset.html"
+  },
+  {
     "id": "2024-07-08-south-africa-100-days-without-load-shedding",
     "title": "South Africa's 100 Days Without Load-Shedding Are a Maintenance Dividend, Not Yet a Secure System",
     "date": "2024-07-08",
@@ -2087,6 +2224,21 @@ window.TEI_RESEARCH = [
     "countries": [
       "ZA"
     ]
+  },
+  {
+    "id": "2024-06-27-miso-spp-wind-curtailment-transmission",
+    "title": "The Midwest Is Throwing Away Wind Because It Cannot Move It. That Is a Transmission Bill, Not a Wind Problem",
+    "date": "2024-06-27",
+    "dateDisplay": "27 June 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-06-27-miso-spp-wind-curtailment-transmission.html"
   },
   {
     "id": "2024-06-24-india-offshore-wind-vgf-first-gigawatt",
@@ -2115,6 +2267,21 @@ window.TEI_RESEARCH = [
     "regionLabel": "Europe",
     "href": "articles/2024-06-24-eu-electricity-market-design-reform.html",
     "countries": []
+  },
+  {
+    "id": "2024-06-17-mountain-valley-pipeline-appalachia-takeaway",
+    "title": "Mountain Valley Finally Flows. Appalachia's Real Constraint Was Never the Rock",
+    "date": "2024-06-17",
+    "dateDisplay": "17 June 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-06-17-mountain-valley-pipeline-appalachia-takeaway.html"
   },
   {
     "id": "2024-06-10-india-250-gw-peak-thermal-backbone",
@@ -2147,6 +2314,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-05-13-us-weather-risk-wind-hydro-2023-decline",
+    "title": "Wind and Water Both Fell Short in 2023. US Planning Still Treats Renewable Output as an Average",
+    "date": "2024-05-13",
+    "dateDisplay": "13 May 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-05-13-us-weather-risk-wind-hydro-2023-decline.html"
+  },
+  {
     "id": "2024-05-06-vogtle-unit-4-completion-nuclear-cost-lessons",
     "title": "Vogtle Is Finished. The Lessons for the Next US Reactor Are About Cost, Not Technology",
     "date": "2024-05-06",
@@ -2162,6 +2344,21 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-04-23-ercot-eclipse-solar-gas-backstop",
+    "title": "The Eclipse Was ERCOT's Easiest Solar Test. The Hard Version Comes Every Evening",
+    "date": "2024-04-23",
+    "dateDisplay": "23 April 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-04-23-ercot-eclipse-solar-gas-backstop.html"
+  },
+  {
     "id": "2024-04-15-nigeria-band-a-tariff-reset",
     "title": "Nigeria's Band A Tariff Reset Moves Subsidy Off the Budget but Puts Service Quality on Trial",
     "date": "2024-04-15",
@@ -2175,6 +2372,42 @@ window.TEI_RESEARCH = [
     "countries": [
       "NG"
     ]
+  },
+  {
+    "id": "2024-04-03-baltimore-key-bridge-coal-export-exposure",
+    "title": "The Key Bridge Collapse Shows How Much US Coal Now Depends on Export Docks",
+    "date": "2024-04-03",
+    "dateDisplay": "3 April 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US",
+      "IN",
+      "JP",
+      "CN",
+      "KR"
+    ],
+    "href": "articles/2024-04-03-baltimore-key-bridge-coal-export-exposure.html"
+  },
+  {
+    "id": "2024-03-19-us-crude-record-fewer-rigs-consolidation",
+    "title": "Record US Crude Output With Fewer Rigs Is a Productivity Story. The Merger Wave Decides How Long It Lasts",
+    "date": "2024-03-19",
+    "dateDisplay": "19 March 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US",
+      "SA",
+      "RU"
+    ],
+    "href": "articles/2024-03-19-us-crude-record-fewer-rigs-consolidation.html"
   },
   {
     "id": "2024-03-11-iran-pakistan-pipeline-80km-gambit",
@@ -2208,6 +2441,36 @@ window.TEI_RESEARCH = [
     ]
   },
   {
+    "id": "2024-02-26-us-retirements-slow-record-additions-2024",
+    "title": "A Record Build Year Meets the Slowest Retirement Year Since 2008. The US Is Adding Capacity Faster Than It Can Use It Well",
+    "date": "2024-02-26",
+    "dateDisplay": "26 February 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-02-26-us-retirements-slow-record-additions-2024.html"
+  },
+  {
+    "id": "2024-02-07-henry-hub-cheap-gas-january-cold-record",
+    "title": "Cheap Gas Passed Its Cold Test in January. That Is Not the Same as a Comfortable 2024",
+    "date": "2024-02-07",
+    "dateDisplay": "7 February 2024",
+    "year": "2024",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-02-07-henry-hub-cheap-gas-january-cold-record.html"
+  },
+  {
     "id": "2024-02-05-china-2023-solar-record-grid-question",
     "title": "China's 217 GW Solar Year and the Grid Question It Leaves Behind",
     "date": "2024-02-05",
@@ -2221,5 +2484,20 @@ window.TEI_RESEARCH = [
     "countries": [
       "CN"
     ]
+  },
+  {
+    "id": "2024-01-17-us-battery-storage-doubling-solar-growth-2024",
+    "title": "Batteries Are About to Double. The US Grid Question Is Whether They Arrive Where Solar Does",
+    "date": "2024-01-17",
+    "dateDisplay": "17 January 2024",
+    "year": "2024",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "countries": [
+      "US"
+    ],
+    "href": "articles/2024-01-17-us-battery-storage-doubling-solar-growth-2024.html"
   }
 ];
