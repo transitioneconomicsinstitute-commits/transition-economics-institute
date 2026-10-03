@@ -301,6 +301,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-08-17-us-gas-exports-growth-path-to-2027.html"
   },
   {
+    "id": "2026-08-17-india-270-gw-peak-state-grids",
+    "title": "India's 270.8 GW Peak: Enough Generation, Not Enough Wires",
+    "date": "2026-08-17",
+    "dateDisplay": "17 August 2026",
+    "year": "2026",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2026-08-17-india-270-gw-peak-state-grids.html"
+  },
+  {
     "id": "2026-08-17-ercot-large-load-pause-verification",
     "title": "ERCOT Pauses Batch Zero Study and Large Data-Centre Energisation after Abbott Directive",
     "date": "2026-08-17",
@@ -359,6 +371,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2026-07-13-national-transmission-needs-study-draft.html"
+  },
+  {
+    "id": "2026-07-13-india-gas-rationing-hormuz-lessons",
+    "title": "Four Months of Gas Rationing: What the Hormuz Closure Taught India About LNG Dependence",
+    "date": "2026-07-13",
+    "dateDisplay": "13 July 2026",
+    "year": "2026",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2026-07-13-india-gas-rationing-hormuz-lessons.html"
   },
   {
     "id": "2026-06-16-qatar-lng-hormuz-and-ras-laffan",
@@ -469,6 +493,42 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html"
   },
   {
+    "id": "2026-01-26-india-discoms-first-profit",
+    "title": "India's Distribution Companies Turn a Profit: Real Progress, Thin Margin",
+    "date": "2026-01-26",
+    "dateDisplay": "26 January 2026",
+    "year": "2026",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2026-01-26-india-discoms-first-profit.html"
+  },
+  {
+    "id": "2026-01-19-india-record-2025-solar-additions",
+    "title": "India's Record 2025 Build: 37.9 GW of Solar, and a Deadline That Did Much of the Work",
+    "date": "2026-01-19",
+    "dateDisplay": "19 January 2026",
+    "year": "2026",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2026-01-19-india-record-2025-solar-additions.html"
+  },
+  {
+    "id": "2025-12-29-india-shanti-act-nuclear-opening",
+    "title": "The SHANTI Act Opens Indian Nuclear Power to Private Capital. The Hard Part Starts Now",
+    "date": "2025-12-29",
+    "dateDisplay": "29 December 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2025-12-29-india-shanti-act-nuclear-opening.html"
+  },
+  {
     "id": "2025-12-15-lng-contracting-europe-demand-uncertainty",
     "title": "LNG contracting under European demand uncertainty into 2030",
     "date": "2025-12-15",
@@ -539,6 +599,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2025-11-04-eni-lng-cargo-cancellations.html"
+  },
+  {
+    "id": "2025-10-20-india-carbon-market-first-intensity-targets",
+    "title": "India's First Binding Emission Targets: An Intensity Market Built for Exporters as Much as for the Climate",
+    "date": "2025-10-20",
+    "dateDisplay": "20 October 2025",
+    "year": "2025",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2025-10-20-india-carbon-market-first-intensity-targets.html"
   },
   {
     "id": "2025-10-14-ders-disco-igcep-inputs",
@@ -685,6 +757,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-07-21-pm-blocks-net-metering-review.html"
   },
   {
+    "id": "2025-07-21-india-50-per-cent-non-fossil-capacity",
+    "title": "Half the Fleet, a Fifth of the Energy: India's 50 Per Cent Non-Fossil Milestone in Perspective",
+    "date": "2025-07-21",
+    "dateDisplay": "21 July 2025",
+    "year": "2025",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2025-07-21-india-50-per-cent-non-fossil-capacity.html"
+  },
+  {
     "id": "2025-07-14-shipping-chokepoints-energy-security",
     "title": "Shipping chokepoints after eighteen months of Red Sea diversion",
     "date": "2025-07-14",
@@ -757,6 +841,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-06-16-coal-trade-record-then-retreat.html"
   },
   {
+    "id": "2025-04-07-india-coal-one-billion-tonnes",
+    "title": "One Billion Tonnes: India's Coal Milestone Is a Security Achievement and a Planning Warning",
+    "date": "2025-04-07",
+    "dateDisplay": "7 April 2025",
+    "year": "2025",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2025-04-07-india-coal-one-billion-tonnes.html"
+  },
+  {
     "id": "2025-02-24-china-document-136-renewables-market-pricing",
     "title": "Document 136 Ends China's Fixed-Price Era for Wind and Solar",
     "date": "2025-02-24",
@@ -815,6 +911,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2024-12-04-ipp-ppa-renegotiation.html"
+  },
+  {
+    "id": "2024-11-20-india-200-gw-renewables-500-gw-gap",
+    "title": "India Passes 200 GW of Renewables: Halfway to 2030 in Capacity, Much Less in Delivery",
+    "date": "2024-11-20",
+    "dateDisplay": "20 November 2024",
+    "year": "2024",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2024-11-20-india-200-gw-renewables-500-gw-gap.html"
   },
   {
     "id": "2024-11-18-nuclear-licence-renewals-and-fleet-value",
@@ -1057,6 +1165,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html"
   },
   {
+    "id": "2024-06-10-india-250-gw-peak-thermal-backbone",
+    "title": "India's 250 GW Peak: The Evening Hour Is Now the Binding Constraint",
+    "date": "2024-06-10",
+    "dateDisplay": "10 June 2024",
+    "year": "2024",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2024-06-10-india-250-gw-peak-thermal-backbone.html"
+  },
+  {
     "id": "2024-05-31-china-march-emissions-fall-peak-test",
     "title": "One Month Down: Reading China's March 2024 Emissions Fall Without Overreaching",
     "date": "2024-05-31",
@@ -1067,6 +1187,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html"
+  },
+  {
+    "id": "2024-03-11-india-pm-surya-ghar-rooftop-solar",
+    "title": "PM Surya Ghar: India's Rooftop Bet Moves the Solar Problem From Land to Distribution Companies",
+    "date": "2024-03-11",
+    "dateDisplay": "11 March 2024",
+    "year": "2024",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "india",
+    "regionLabel": "India",
+    "href": "articles/2024-03-11-india-pm-surya-ghar-rooftop-solar.html"
   },
   {
     "id": "2024-02-05-china-2023-solar-record-grid-question",
