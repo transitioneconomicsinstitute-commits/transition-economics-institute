@@ -541,6 +541,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html"
   },
   {
+    "id": "2026-03-18-iea-collective-stock-release-400m-barrels",
+    "title": "The IEA's 400-Million-Barrel Release Is a Bridge. Countries Outside the System Have No Bridge at All",
+    "date": "2026-03-18",
+    "dateDisplay": "18 March 2026",
+    "year": "2026",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-03-18-iea-collective-stock-release-400m-barrels.html"
+  },
+  {
     "id": "2026-03-16-hormuz-austerity-fuel-demand",
     "title": "Pakistan's Hormuz Austerity Saves Little Fuel. The Shock Shows Oil Dependence Is a Transport Problem",
     "date": "2026-03-16",
@@ -695,6 +707,30 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2025-12-10-circular-debt-stock-vs-flow.html"
+  },
+  {
+    "id": "2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap",
+    "title": "After Belém, the Fossil Fuel Transition Moves Outside the COP. Energy Investors Should Follow It There",
+    "date": "2025-12-08",
+    "dateDisplay": "8 December 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-12-08-cop30-belem-mutirao-fossil-fuel-roadmap.html"
+  },
+  {
+    "id": "2025-11-17-iea-weo-2025-energy-security-scenarios",
+    "title": "WEO 2025 Puts Energy Security First. Its Return of the Current Policies Scenario Is a Warning, Not a Forecast",
+    "date": "2025-11-17",
+    "dateDisplay": "17 November 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-11-17-iea-weo-2025-energy-security-scenarios.html"
   },
   {
     "id": "2025-11-17-federal-energy-dominance-and-gas-markets",
@@ -1141,6 +1177,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-04-07-india-coal-one-billion-tonnes.html"
   },
   {
+    "id": "2025-03-31-iea-global-energy-review-2025-electricity-demand",
+    "title": "Global Energy Review 2025: Electricity Pulled Every Fuel Up in 2024. Heat, Not Data Centres, Was the Surprise",
+    "date": "2025-03-31",
+    "dateDisplay": "31 March 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-03-31-iea-global-energy-review-2025-electricity-demand.html"
+  },
+  {
     "id": "2025-03-03-affordable-energy-action-plan",
     "title": "Brussels' Affordable Energy Plan Targets the Right Parts of the Bill. Delivery Sits With Member States",
     "date": "2025-03-03",
@@ -1273,6 +1321,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-12-04-ipp-ppa-renegotiation.html"
   },
   {
+    "id": "2024-12-02-cop29-ncqg-climate-finance-energy-investment",
+    "title": "Baku's USD 300 Billion Goal Will Not Move Energy Investment in Developing Countries on Its Own",
+    "date": "2024-12-02",
+    "dateDisplay": "2 December 2024",
+    "year": "2024",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-12-02-cop29-ncqg-climate-finance-energy-investment.html"
+  },
+  {
     "id": "2024-11-20-india-200-gw-renewables-500-gw-gap",
     "title": "India Passes 200 GW of Renewables: Halfway to 2030 in Capacity, Much Less in Delivery",
     "date": "2024-11-20",
@@ -1319,6 +1379,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2024-11-11-lng-trade-atlantic-pacific-rebalancing.html"
+  },
+  {
+    "id": "2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang",
+    "title": "WEO 2024: A Buyers' Market for Fuels Is Coming. Importers Should Use It Wisely",
+    "date": "2024-10-21",
+    "dateDisplay": "21 October 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-10-21-iea-weo-2024-age-of-electricity-supply-overhang.html"
   },
   {
     "id": "2024-10-15-thar-mine-expansion-finance",
