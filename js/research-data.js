@@ -1,6 +1,18 @@
 // Research index.
 window.TEI_RESEARCH = [
   {
+    "id": "2026-10-03-furnace-oil-rlng-winter-hedge",
+    "title": "Furnace Oil Is Pakistan's Hedge Against Spot LNG. It Needs to Become a Plan.",
+    "date": "2026-10-03",
+    "dateDisplay": "3 October 2026",
+    "year": "2026",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2026-10-03-furnace-oil-rlng-winter-hedge.html"
+  },
+  {
     "id": "2026-10-03-crude-returns-products-lag-diesel-market",
     "title": "The Crude Is Back, the Diesel Is Not: Why October's Oil Market Is a Products Market",
     "date": "2026-10-03",
@@ -13,16 +25,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-10-03-crude-returns-products-lag-diesel-market.html"
   },
   {
-    "id": "2026-10-03-furnace-oil-rlng-winter-hedge",
-    "title": "Furnace Oil Is Pakistan's Hedge Against Spot LNG. It Needs to Become a Plan.",
-    "date": "2026-10-03",
-    "dateDisplay": "3 October 2026",
+    "id": "2026-10-02-rooftop-solar-back-at-the-disco-desk",
+    "title": "Rooftop Solar Back at the DISCO Desk: The 25 kW Approval and the 80% Transformer Ceiling",
+    "date": "2026-10-02",
+    "dateDisplay": "2 October 2026",
     "year": "2026",
-    "author": "Bilal Mohyuddin",
-    "authorSlug": "bilal-mohyuddin",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
     "region": "pakistan",
     "regionLabel": "Pakistan",
-    "href": "articles/2026-10-03-furnace-oil-rlng-winter-hedge.html"
+    "href": "articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html"
   },
   {
     "id": "2026-10-02-imf-review-bisp-power-subsidy-cash-transfer",
@@ -49,18 +61,6 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-10-02-asian-seaborne-coal-gulf-lng-outage.html"
   },
   {
-    "id": "2026-10-02-rooftop-solar-back-at-the-disco-desk",
-    "title": "Rooftop Solar Back at the DISCO Desk: The 25 kW Approval and the 80% Transformer Ceiling",
-    "date": "2026-10-02",
-    "dateDisplay": "2 October 2026",
-    "year": "2026",
-    "author": "Sana Iqbal",
-    "authorSlug": "sana-iqbal",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2026-10-02-rooftop-solar-back-at-the-disco-desk.html"
-  },
-  {
     "id": "2026-10-01-henry-hub-storage-gap-gulf-coast-salt",
     "title": "Three-Dollar Henry Hub Is a Liquefaction Ceiling, Not a Storage Cushion",
     "date": "2026-10-01",
@@ -71,18 +71,6 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2026-10-01-henry-hub-storage-gap-gulf-coast-salt.html"
-  },
-  {
-    "id": "2026-09-30-pjm-backstop-procurement-pause",
-    "title": "PJM's Backstop Procurement Pause: Re-size the 6.8 GW Target Before It Is Bought",
-    "date": "2026-09-30",
-    "dateDisplay": "30 September 2026",
-    "year": "2026",
-    "author": "Marcus Hale",
-    "authorSlug": "marcus-hale",
-    "region": "united-states",
-    "regionLabel": "United States",
-    "href": "articles/2026-09-30-pjm-backstop-procurement-pause.html"
   },
   {
     "id": "2026-09-30-pjm-order-1920-cost-allocation-impasse",
@@ -97,16 +85,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-30-pjm-order-1920-cost-allocation-impasse.html"
   },
   {
-    "id": "2026-09-29-ercot-batch-zero-conditional-classifications",
-    "title": "ERCOT Batch Zero Conditional Classifications: 66.4 GW Base, 127.9 GW Studied, December Verification Ahead",
-    "date": "2026-09-29",
-    "dateDisplay": "29 September 2026",
+    "id": "2026-09-30-pjm-backstop-procurement-pause",
+    "title": "PJM's Backstop Procurement Pause: Re-size the 6.8 GW Target Before It Is Bought",
+    "date": "2026-09-30",
+    "dateDisplay": "30 September 2026",
     "year": "2026",
-    "author": "Claire Dunne",
-    "authorSlug": "claire-dunne",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
     "region": "united-states",
     "regionLabel": "United States",
-    "href": "articles/2026-09-29-ercot-batch-zero-conditional-classifications.html"
+    "href": "articles/2026-09-30-pjm-backstop-procurement-pause.html"
   },
   {
     "id": "2026-09-29-ercot-soft-lmps-large-load-premium",
@@ -119,6 +107,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2026-09-29-ercot-soft-lmps-large-load-premium.html"
+  },
+  {
+    "id": "2026-09-29-ercot-batch-zero-conditional-classifications",
+    "title": "ERCOT Batch Zero Conditional Classifications: 66.4 GW Base, 127.9 GW Studied, December Verification Ahead",
+    "date": "2026-09-29",
+    "dateDisplay": "29 September 2026",
+    "year": "2026",
+    "author": "Claire Dunne",
+    "authorSlug": "claire-dunne",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-09-29-ercot-batch-zero-conditional-classifications.html"
   },
   {
     "id": "2026-09-28-hormuz-partial-reopening-and-export-rebound",
@@ -157,18 +157,6 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-18-disco-stake-sale-management-control.html"
   },
   {
-    "id": "2026-09-14-oil-geopolitics-middle-east-tensions",
-    "title": "Oil geopolitics in September 2026: Middle East tension, Hormuz maths, OPEC+ barrels",
-    "date": "2026-09-14",
-    "dateDisplay": "14 September 2026",
-    "year": "2026",
-    "author": "Sana Iqbal",
-    "authorSlug": "sana-iqbal",
-    "region": "global",
-    "regionLabel": "Global",
-    "href": "articles/2026-09-14-oil-geopolitics-middle-east-tensions.html"
-  },
-  {
     "id": "2026-09-14-steo-record-electricity-sales-data-centres",
     "title": "Record United States Electricity Sales in the September 2026 STEO: Data Centres and Manufacturing",
     "date": "2026-09-14",
@@ -181,16 +169,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-14-steo-record-electricity-sales-data-centres.html"
   },
   {
-    "id": "2026-09-12-brent-steo-middle-east-disruption-prices",
-    "title": "Brent under Middle East disruption: EIA STEO prices, shut-ins, and inventory draws",
-    "date": "2026-09-12",
-    "dateDisplay": "12 September 2026",
+    "id": "2026-09-14-oil-geopolitics-middle-east-tensions",
+    "title": "Oil geopolitics in September 2026: Middle East tension, Hormuz maths, OPEC+ barrels",
+    "date": "2026-09-14",
+    "dateDisplay": "14 September 2026",
     "year": "2026",
     "author": "Sana Iqbal",
     "authorSlug": "sana-iqbal",
-    "region": "middle-east",
-    "regionLabel": "Middle East",
-    "href": "articles/2026-09-12-brent-steo-middle-east-disruption-prices.html"
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2026-09-14-oil-geopolitics-middle-east-tensions.html"
   },
   {
     "id": "2026-09-12-hybrids-bess-wheeling-mandate",
@@ -205,6 +193,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-09-12-hybrids-bess-wheeling-mandate.html"
   },
   {
+    "id": "2026-09-12-brent-steo-middle-east-disruption-prices",
+    "title": "Brent under Middle East disruption: EIA STEO prices, shut-ins, and inventory draws",
+    "date": "2026-09-12",
+    "dateDisplay": "12 September 2026",
+    "year": "2026",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "middle-east",
+    "regionLabel": "Middle East",
+    "href": "articles/2026-09-12-brent-steo-middle-east-disruption-prices.html"
+  },
+  {
     "id": "2026-09-10-igcep-2027-data-collection",
     "title": "IGCEP 2027 Data Calls While IGCEP 2025-35 Awaits Notification",
     "date": "2026-09-10",
@@ -215,6 +215,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2026-09-10-igcep-2027-data-collection.html"
+  },
+  {
+    "id": "2026-09-08-china-oil-demand-falls-hormuz-electrification",
+    "title": "China's Oil Shock Response: Electrification Did What Stockpiles Alone Could Not",
+    "date": "2026-09-08",
+    "dateDisplay": "8 September 2026",
+    "year": "2026",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2026-09-08-china-oil-demand-falls-hormuz-electrification.html"
   },
   {
     "id": "2026-09-07-european-power-prices-renewables",
@@ -277,18 +289,6 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-08-18-power-markets-and-oil-gas-price-shock.html"
   },
   {
-    "id": "2026-08-17-ercot-large-load-pause-verification",
-    "title": "ERCOT Pauses Batch Zero Study and Large Data-Centre Energisation after Abbott Directive",
-    "date": "2026-08-17",
-    "dateDisplay": "17 August 2026",
-    "year": "2026",
-    "author": "Marcus Hale",
-    "authorSlug": "marcus-hale",
-    "region": "united-states",
-    "regionLabel": "United States",
-    "href": "articles/2026-08-17-ercot-large-load-pause-verification.html"
-  },
-  {
     "id": "2026-08-17-us-gas-exports-growth-path-to-2027",
     "title": "United States Natural Gas Exports on Course to Rise Nearly Thirty Percent by 2027",
     "date": "2026-08-17",
@@ -299,6 +299,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2026-08-17-us-gas-exports-growth-path-to-2027.html"
+  },
+  {
+    "id": "2026-08-17-ercot-large-load-pause-verification",
+    "title": "ERCOT Pauses Batch Zero Study and Large Data-Centre Energisation after Abbott Directive",
+    "date": "2026-08-17",
+    "dateDisplay": "17 August 2026",
+    "year": "2026",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2026-08-17-ercot-large-load-pause-verification.html"
   },
   {
     "id": "2026-08-10-igu-world-lng-report-2026-record",
@@ -409,16 +421,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html"
   },
   {
-    "id": "2026-03-10-hormuz-crude-transit-documented-flows",
-    "title": "Hormuz crude transit under conflict risk: documented flows, not slogans",
-    "date": "2026-03-10",
-    "dateDisplay": "10 March 2026",
+    "id": "2026-03-20-china-15th-five-year-plan-carbon-intensity",
+    "title": "China's 15th Five-Year Plan: A 17 Per Cent Carbon Intensity Target on a New Yardstick",
+    "date": "2026-03-20",
+    "dateDisplay": "20 March 2026",
     "year": "2026",
-    "author": "Jamshed Khan",
-    "authorSlug": "jamshed-khan",
-    "region": "middle-east",
-    "regionLabel": "Middle East",
-    "href": "articles/2026-03-10-hormuz-crude-transit-documented-flows.html"
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2026-03-20-china-15th-five-year-plan-carbon-intensity.html"
   },
   {
     "id": "2026-03-10-hormuz-oil-transit-collapse-iea",
@@ -431,6 +443,30 @@ window.TEI_RESEARCH = [
     "region": "middle-east",
     "regionLabel": "Middle East",
     "href": "articles/2026-03-10-hormuz-oil-transit-collapse-iea.html"
+  },
+  {
+    "id": "2026-03-10-hormuz-crude-transit-documented-flows",
+    "title": "Hormuz crude transit under conflict risk: documented flows, not slogans",
+    "date": "2026-03-10",
+    "dateDisplay": "10 March 2026",
+    "year": "2026",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "middle-east",
+    "regionLabel": "Middle East",
+    "href": "articles/2026-03-10-hormuz-crude-transit-documented-flows.html"
+  },
+  {
+    "id": "2026-02-16-china-2025-wind-solar-overtake-thermal",
+    "title": "China's 2025 Power Data: Wind and Solar Pass Thermal Capacity, and the Curtailment Bill Arrives",
+    "date": "2026-02-16",
+    "dateDisplay": "16 February 2026",
+    "year": "2026",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2026-02-16-china-2025-wind-solar-overtake-thermal.html"
   },
   {
     "id": "2025-12-15-lng-contracting-europe-demand-uncertainty",
@@ -469,18 +505,6 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-12-10-circular-debt-stock-vs-flow.html"
   },
   {
-    "id": "2025-11-17-china-lng-coal-power-dual",
-    "title": "China's dual energy reality: coal import swings and LNG optionality",
-    "date": "2025-11-17",
-    "dateDisplay": "17 November 2025",
-    "year": "2025",
-    "author": "Hassan Raza",
-    "authorSlug": "hassan-raza",
-    "region": "global",
-    "regionLabel": "Global",
-    "href": "articles/2025-11-17-china-lng-coal-power-dual.html"
-  },
-  {
     "id": "2025-11-17-federal-energy-dominance-and-gas-markets",
     "title": "Energy Dominance Rhetoric and the Engineering Reality of United States Gas Markets",
     "date": "2025-11-17",
@@ -491,6 +515,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2025-11-17-federal-energy-dominance-and-gas-markets.html"
+  },
+  {
+    "id": "2025-11-17-china-lng-coal-power-dual",
+    "title": "China's dual energy reality: coal import swings and LNG optionality",
+    "date": "2025-11-17",
+    "dateDisplay": "17 November 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-11-17-china-lng-coal-power-dual.html"
   },
   {
     "id": "2025-11-04-eni-lng-cargo-cancellations",
@@ -541,28 +577,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-10-13-colocated-large-loads-and-tariff-design.html"
   },
   {
-    "id": "2025-09-15-european-electricity-flexibility-gap",
-    "title": "European electricity: renewables deliver, flexibility still under-ordered",
-    "date": "2025-09-15",
-    "dateDisplay": "15 September 2025",
+    "id": "2025-10-06-china-2035-ndc-7-to-10-per-cent",
+    "title": "China's 2035 Pledge: A Modest Headline Built on an Ambitious Capacity Number",
+    "date": "2025-10-06",
+    "dateDisplay": "6 October 2025",
     "year": "2025",
-    "author": "Bilal Mohyuddin",
-    "authorSlug": "bilal-mohyuddin",
-    "region": "global",
-    "regionLabel": "Global",
-    "href": "articles/2025-09-15-european-electricity-flexibility-gap.html"
-  },
-  {
-    "id": "2025-09-15-fy25-generation-mix",
-    "title": "Reading FY2025’s Generation Mix: Hydro, Nuclear, and Coal Shares",
-    "date": "2025-09-15",
-    "dateDisplay": "15 September 2025",
-    "year": "2025",
-    "author": "Bilal Mohyuddin",
-    "authorSlug": "bilal-mohyuddin",
-    "region": "pakistan",
-    "regionLabel": "Pakistan",
-    "href": "articles/2025-09-15-fy25-generation-mix.html"
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html"
   },
   {
     "id": "2025-09-15-renewables-share-electricity-generation",
@@ -577,6 +601,30 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-09-15-renewables-share-electricity-generation.html"
   },
   {
+    "id": "2025-09-15-fy25-generation-mix",
+    "title": "Reading FY2025’s Generation Mix: Hydro, Nuclear, and Coal Shares",
+    "date": "2025-09-15",
+    "dateDisplay": "15 September 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "pakistan",
+    "regionLabel": "Pakistan",
+    "href": "articles/2025-09-15-fy25-generation-mix.html"
+  },
+  {
+    "id": "2025-09-15-european-electricity-flexibility-gap",
+    "title": "European electricity: renewables deliver, flexibility still under-ordered",
+    "date": "2025-09-15",
+    "dateDisplay": "15 September 2025",
+    "year": "2025",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2025-09-15-european-electricity-flexibility-gap.html"
+  },
+  {
     "id": "2025-08-20-igcep-2025-35-revision",
     "title": "IGCEP 2025-35: Revising the Plan While Demand Shifts under Solar",
     "date": "2025-08-20",
@@ -587,6 +635,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2025-08-20-igcep-2025-35-revision.html"
+  },
+  {
+    "id": "2025-08-18-transmission-investment-gap-load-growth",
+    "title": "The Transmission Investment Gap as United States Load Growth Reappears",
+    "date": "2025-08-18",
+    "dateDisplay": "18 August 2025",
+    "year": "2025",
+    "author": "Marcus Hale",
+    "authorSlug": "marcus-hale",
+    "region": "united-states",
+    "regionLabel": "United States",
+    "href": "articles/2025-08-18-transmission-investment-gap-load-growth.html"
   },
   {
     "id": "2025-08-18-middle-east-spare-capacity-oil",
@@ -601,16 +661,16 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-08-18-middle-east-spare-capacity-oil.html"
   },
   {
-    "id": "2025-08-18-transmission-investment-gap-load-growth",
-    "title": "The Transmission Investment Gap as United States Load Growth Reappears",
-    "date": "2025-08-18",
-    "dateDisplay": "18 August 2025",
+    "id": "2025-07-28-china-yarlung-tsangpo-hydropower-cascade",
+    "title": "The Yarlung Tsangpo Cascade: China's 1.2 Trillion Yuan Bet on Firm Clean Power",
+    "date": "2025-07-28",
+    "dateDisplay": "28 July 2025",
     "year": "2025",
-    "author": "Marcus Hale",
-    "authorSlug": "marcus-hale",
-    "region": "united-states",
-    "regionLabel": "United States",
-    "href": "articles/2025-08-18-transmission-investment-gap-load-growth.html"
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2025-07-28-china-yarlung-tsangpo-hydropower-cascade.html"
   },
   {
     "id": "2025-07-21-pm-blocks-net-metering-review",
@@ -649,6 +709,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-07-14-nuclear-smr-licensing-after-advance-act.html"
   },
   {
+    "id": "2025-06-30-china-may-solar-rush-93gw",
+    "title": "93 GW in a Month: What China's Pre-Deadline Solar Rush Says About the Second Half",
+    "date": "2025-06-30",
+    "dateDisplay": "30 June 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2025-06-30-china-may-solar-rush-93gw.html"
+  },
+  {
     "id": "2025-06-18-local-vs-imported-coal",
     "title": "Local Coal versus Imported Coal on the Merit Order",
     "date": "2025-06-18",
@@ -659,18 +731,6 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2025-06-18-local-vs-imported-coal.html"
-  },
-  {
-    "id": "2025-06-16-coal-trade-record-then-retreat",
-    "title": "Coal trade after the 2024 record: Asia still rules the seaborne market",
-    "date": "2025-06-16",
-    "dateDisplay": "16 June 2025",
-    "year": "2025",
-    "author": "Jamshed Khan",
-    "authorSlug": "jamshed-khan",
-    "region": "global",
-    "regionLabel": "Global",
-    "href": "articles/2025-06-16-coal-trade-record-then-retreat.html"
   },
   {
     "id": "2025-06-16-ercot-load-growth-and-reliability",
@@ -685,16 +745,40 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-06-16-ercot-load-growth-and-reliability.html"
   },
   {
-    "id": "2024-12-16-opec-plus-delays-unwind-to-april-2025",
-    "title": "OPEC+ delays the unwind to April 2025 and stretches cuts toward 2026",
-    "date": "2024-12-16",
-    "dateDisplay": "16 December 2024",
-    "year": "2024",
-    "author": "Sana Iqbal",
-    "authorSlug": "sana-iqbal",
+    "id": "2025-06-16-coal-trade-record-then-retreat",
+    "title": "Coal trade after the 2024 record: Asia still rules the seaborne market",
+    "date": "2025-06-16",
+    "dateDisplay": "16 June 2025",
+    "year": "2025",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
     "region": "global",
     "regionLabel": "Global",
-    "href": "articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html"
+    "href": "articles/2025-06-16-coal-trade-record-then-retreat.html"
+  },
+  {
+    "id": "2025-02-24-china-document-136-renewables-market-pricing",
+    "title": "Document 136 Ends China's Fixed-Price Era for Wind and Solar",
+    "date": "2025-02-24",
+    "dateDisplay": "24 February 2025",
+    "year": "2025",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2025-02-24-china-document-136-renewables-market-pricing.html"
+  },
+  {
+    "id": "2025-02-03-china-lng-2024-pipeline-squeeze",
+    "title": "China's LNG Recovery Stalls Short of the Record as Pipelines and Power Change the Gas Equation",
+    "date": "2025-02-03",
+    "dateDisplay": "3 February 2025",
+    "year": "2025",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2025-02-03-china-lng-2024-pipeline-squeeze.html"
   },
   {
     "id": "2024-12-16-us-lng-exports-2024-year-end",
@@ -707,6 +791,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2024-12-16-us-lng-exports-2024-year-end.html"
+  },
+  {
+    "id": "2024-12-16-opec-plus-delays-unwind-to-april-2025",
+    "title": "OPEC+ delays the unwind to April 2025 and stretches cuts toward 2026",
+    "date": "2024-12-16",
+    "dateDisplay": "16 December 2024",
+    "year": "2024",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-12-16-opec-plus-delays-unwind-to-april-2025.html"
   },
   {
     "id": "2024-12-04-ipp-ppa-renegotiation",
@@ -731,6 +827,18 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2024-11-18-nuclear-licence-renewals-and-fleet-value.html"
+  },
+  {
+    "id": "2024-11-18-china-energy-law-what-changes",
+    "title": "China's First Energy Law: A Framework Statute With Sharper Edges Than It First Appears",
+    "date": "2024-11-18",
+    "dateDisplay": "18 November 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2024-11-18-china-energy-law-what-changes.html"
   },
   {
     "id": "2024-11-11-lng-trade-atlantic-pacific-rebalancing",
@@ -817,18 +925,6 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-09-18-utility-scale-solar-after-qasp.html"
   },
   {
-    "id": "2024-09-16-european-power-renewables-prices",
-    "title": "European power in 2024: renewables climb, wholesale prices ease, flexibility lags",
-    "date": "2024-09-16",
-    "dateDisplay": "16 September 2024",
-    "year": "2024",
-    "author": "Bilal Mohyuddin",
-    "authorSlug": "bilal-mohyuddin",
-    "region": "global",
-    "regionLabel": "Global",
-    "href": "articles/2024-09-16-european-power-renewables-prices.html"
-  },
-  {
     "id": "2024-09-16-interconnection-queue-cluster-study-rollout",
     "title": "Cluster Studies Take Hold: What Order No. 2023 Means on the Ground in Late 2024",
     "date": "2024-09-16",
@@ -841,6 +937,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-09-16-interconnection-queue-cluster-study-rollout.html"
   },
   {
+    "id": "2024-09-16-european-power-renewables-prices",
+    "title": "European power in 2024: renewables climb, wholesale prices ease, flexibility lags",
+    "date": "2024-09-16",
+    "dateDisplay": "16 September 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "global",
+    "regionLabel": "Global",
+    "href": "articles/2024-09-16-european-power-renewables-prices.html"
+  },
+  {
     "id": "2024-09-09-opec-plus-delays-unwind-two-months",
     "title": "OPEC+ delays the unwind: two more months of voluntary cuts and the compliance test",
     "date": "2024-09-09",
@@ -851,6 +959,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2024-09-09-opec-plus-delays-unwind-two-months.html"
+  },
+  {
+    "id": "2024-08-26-china-wind-solar-overtake-coal-capacity",
+    "title": "Wind and Solar Overtake Coal Capacity in China: A Milestone That Changes the Dispatch Debate",
+    "date": "2024-08-26",
+    "dateDisplay": "26 August 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2024-08-26-china-wind-solar-overtake-coal-capacity.html"
   },
   {
     "id": "2024-08-22-rooftop-solar-net-metering-boom",
@@ -935,5 +1055,29 @@ window.TEI_RESEARCH = [
     "region": "united-states",
     "regionLabel": "United States",
     "href": "articles/2024-07-15-advance-act-nuclear-licensing-reform.html"
+  },
+  {
+    "id": "2024-05-31-china-march-emissions-fall-peak-test",
+    "title": "One Month Down: Reading China's March 2024 Emissions Fall Without Overreaching",
+    "date": "2024-05-31",
+    "dateDisplay": "31 May 2024",
+    "year": "2024",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2024-05-31-china-march-emissions-fall-peak-test.html"
+  },
+  {
+    "id": "2024-02-05-china-2023-solar-record-grid-question",
+    "title": "China's 217 GW Solar Year and the Grid Question It Leaves Behind",
+    "date": "2024-02-05",
+    "dateDisplay": "5 February 2024",
+    "year": "2024",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "china",
+    "regionLabel": "China",
+    "href": "articles/2024-02-05-china-2023-solar-record-grid-question.html"
   }
 ];
