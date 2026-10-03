@@ -469,6 +469,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2026-04-14-iran-crude-exports-eia-vortexa-record.html"
   },
   {
+    "id": "2026-03-23-japan-korea-hormuz-oil-reserves",
+    "title": "Japan and Korea Can Ride Out a Hormuz Closure on Reserves for Months. Their Exposure Is Price, Not Barrels",
+    "date": "2026-03-23",
+    "dateDisplay": "23 March 2026",
+    "year": "2026",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2026-03-23-japan-korea-hormuz-oil-reserves.html"
+  },
+  {
     "id": "2026-03-20-china-15th-five-year-plan-carbon-intensity",
     "title": "China's 15th Five-Year Plan: A 17 Per Cent Carbon Intensity Target on a New Yardstick",
     "date": "2026-03-20",
@@ -685,6 +697,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-10-27-drc-cobalt-quotas-replace-ban.html"
   },
   {
+    "id": "2025-10-27-brazil-foz-do-amazonas-drilling-licence",
+    "title": "Brazil's Amazon Mouth Drilling Licence Is a Bet on Oil Rents to Fund the Transition. The Bet Needs Conditions",
+    "date": "2025-10-27",
+    "dateDisplay": "27 October 2025",
+    "year": "2025",
+    "author": "M. Ali Janjua",
+    "authorSlug": "m-ali-janjua",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2025-10-27-brazil-foz-do-amazonas-drilling-licence.html"
+  },
+  {
     "id": "2025-10-20-india-carbon-market-first-intensity-targets",
     "title": "India's First Binding Emission Targets: An Intensity Market Built for Exporters as Much as for the Climate",
     "date": "2025-10-20",
@@ -755,6 +779,18 @@ window.TEI_RESEARCH = [
     "region": "china",
     "regionLabel": "China",
     "href": "articles/2025-10-06-china-2035-ndc-7-to-10-per-cent.html"
+  },
+  {
+    "id": "2025-09-22-australia-2035-target",
+    "title": "Australia's 62 to 70 Per Cent 2035 Target Is Credible Only if the Grid Is Built on Time",
+    "date": "2025-09-22",
+    "dateDisplay": "22 September 2025",
+    "year": "2025",
+    "author": "Jamshed Khan",
+    "authorSlug": "jamshed-khan",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2025-09-22-australia-2035-target.html"
   },
   {
     "id": "2025-09-15-renewables-share-electricity-generation",
@@ -1009,6 +1045,18 @@ window.TEI_RESEARCH = [
     "href": "articles/2025-03-03-affordable-energy-action-plan.html"
   },
   {
+    "id": "2025-02-24-japan-seventh-strategic-energy-plan",
+    "title": "Japan's Seventh Energy Plan Bets on Renewables and Nuclear Together. Its Weak Spot Is the Thermal Bridge",
+    "date": "2025-02-24",
+    "dateDisplay": "24 February 2025",
+    "year": "2025",
+    "author": "Sana Iqbal",
+    "authorSlug": "sana-iqbal",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2025-02-24-japan-seventh-strategic-energy-plan.html"
+  },
+  {
     "id": "2025-02-24-china-document-136-renewables-market-pricing",
     "title": "Document 136 Ends China's Fixed-Price Era for Wind and Solar",
     "date": "2025-02-24",
@@ -1261,6 +1309,30 @@ window.TEI_RESEARCH = [
     "href": "articles/2024-09-16-european-power-renewables-prices.html"
   },
   {
+    "id": "2024-09-16-draghi-report-energy-prices",
+    "title": "Draghi's Energy Diagnosis Is Right. His Cure Depends on Contracts, Grids and Gas Buying Power",
+    "date": "2024-09-16",
+    "dateDisplay": "16 September 2024",
+    "year": "2024",
+    "author": "Dr. Ali Ahmad",
+    "authorSlug": "dr-ali-ahmad",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2024-09-16-draghi-report-energy-prices.html"
+  },
+  {
+    "id": "2024-09-09-uk-ar6-offshore-wind-recovery",
+    "title": "Britain's Record Renewables Auction Rescues Offshore Wind by Accepting Higher Prices. That Was the Right Call",
+    "date": "2024-09-09",
+    "dateDisplay": "9 September 2024",
+    "year": "2024",
+    "author": "Bilal Mohyuddin",
+    "authorSlug": "bilal-mohyuddin",
+    "region": "europe",
+    "regionLabel": "Europe",
+    "href": "articles/2024-09-09-uk-ar6-offshore-wind-recovery.html"
+  },
+  {
     "id": "2024-09-09-opec-plus-delays-unwind-two-months",
     "title": "OPEC+ delays the unwind: two more months of voluntary cuts and the compliance test",
     "date": "2024-09-09",
@@ -1271,6 +1343,18 @@ window.TEI_RESEARCH = [
     "region": "global",
     "regionLabel": "Global",
     "href": "articles/2024-09-09-opec-plus-delays-unwind-two-months.html"
+  },
+  {
+    "id": "2024-09-02-argentina-rigi-energy-investment",
+    "title": "Argentina's RIGI Offers Investors Thirty Years of Stability. Vaca Muerta Exports Are the Real Target",
+    "date": "2024-09-02",
+    "dateDisplay": "2 September 2024",
+    "year": "2024",
+    "author": "Hassan Raza",
+    "authorSlug": "hassan-raza",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2024-09-02-argentina-rigi-energy-investment.html"
   },
   {
     "id": "2024-08-26-china-wind-solar-overtake-coal-capacity",
@@ -1343,6 +1427,18 @@ window.TEI_RESEARCH = [
     "region": "pakistan",
     "regionLabel": "Pakistan",
     "href": "articles/2024-07-25-tariff-rebasing-imf-conditionality.html"
+  },
+  {
+    "id": "2024-07-22-vietnam-dppa-decree-80",
+    "title": "Vietnam's Direct Power Purchase Decree Opens the Door to Corporate Buyers. EVN's Grid Still Holds the Key",
+    "date": "2024-07-22",
+    "dateDisplay": "22 July 2024",
+    "year": "2024",
+    "author": "Nadia Qureshi",
+    "authorSlug": "nadia-qureshi",
+    "region": "other-markets",
+    "regionLabel": "Other markets",
+    "href": "articles/2024-07-22-vietnam-dppa-decree-80.html"
   },
   {
     "id": "2024-07-15-global-coal-trade-asia-pacific",
